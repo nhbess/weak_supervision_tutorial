@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-def load_raw_spam_dataset(load_train_labels: bool = False, split_dev_valid: bool = False):
+def load_raw_spam_dataset(load_train_labels: bool = False, split_dev_valid: bool = True):
     filenames = sorted(glob.glob("data/youtube/raw/Youtube*.csv"))
 
     dfs = []
@@ -41,4 +41,4 @@ def load_raw_spam_dataset(load_train_labels: bool = False, split_dev_valid: bool
 
 
 if __name__ == '__main__':
-    df_train, df_dev, df_valid, df_test = load_spam_dataset(load_train_labels=True, split_dev_valid=True)
+    df_train, df_dev, df_valid, df_test = load_raw_spam_dataset(load_train_labels=True, split_dev_valid=True)
