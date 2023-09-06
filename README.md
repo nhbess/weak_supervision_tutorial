@@ -1,7 +1,21 @@
-# Weak Supervision tutorial
+# Weak Supervision workshop
 
-This repo contains the material for the practical part of the one-day tutorial on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
+This repo contains the material for the practical part of the one-day workshop on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
 
+---
+## Content 
+
+In our workshop, we are going to go through 3 different tutorials: 
+1. `01_ws_baseics.ipynb` - we will train a spam detection classifier. 
+For that, we will first collect the training data, then annotate it in a weakly supervised fashion 
+(i.e., with help of labeling functions),
+aggregate the annotations into weak labels (with two different models),
+and train a simple MLP. 
+Additionally, we will train a more sophisticated end-to-end SepLL model. 
+2. 
+3.
+ 
+---
 ## Installation
 
 In order to be able to work on the tutorials, you need to have all the necessary libraries installed. 
