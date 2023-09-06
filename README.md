@@ -10,10 +10,17 @@ For that, please do the following:
 2. open the command line in this folder 
 3. create a virtual environment using the `requirements.txt` file:
 ```
-pip3 install virtualenv         # install the virtualenv library if you don't already have it
-virtualenv <the name of your environment>           # create a new virtual environment
-source <the name of your environment>/bin/activate              # enter the virtual environment
-pip3 install -r requirements.txt            # install the requirements in the current virtual environment 
+# install the virtualenv library if you don't already have it
+pip3 install virtualenv       
+
+# create a new virtual environment  
+virtualenv <the name of your environment>  
+
+# enter the virtual environment         
+source <the name of your environment>/bin/activate
+
+# install the requirements in the current virtual environment 
+pip3 install -r requirements.txt
 ```
 4. launch the jupyter notebook from the activated virtual environment
 ```
