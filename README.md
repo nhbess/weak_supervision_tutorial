@@ -43,9 +43,17 @@ pip3 install -r requirements.txt
 jupyter notebook 
 ```
 
-Now you can access all jupyter notebooks that will be used today. Have fun!
+Now you can access all jupyter notebooks that we are going to use today. Have fun!
 
+---
+## Created by
 
+- [Anastasiia Sedova](https://anasedova.github.io)
+- [Andreas Stephan](https://andst.github.io)
+- Vasiliki Kougia
+- [Benjamin Roth](http://benjaminroth.net/)
+
+<img src="img/Uni_Logo_2016.jpg" width="300"/>
 
 
 
