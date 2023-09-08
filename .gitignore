@@ -9,6 +9,6 @@ part_4_global_pos_tags/assets/
 data/part_3_pos_tags/
 
 __pycache__/
-../__pycache__/
+**/__pycache__/
 .idea/
 .ipynb_checkpoints/
