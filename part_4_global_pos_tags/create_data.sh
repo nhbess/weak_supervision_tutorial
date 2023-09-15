@@ -8,5 +8,5 @@ python scripts/copy_files.py train conllu assets/ud-treebanks-v2.5/${vars_ud_tre
 python -m spacy convert corpus/${vars_ud_treebank}/train/ corpus/${vars_ud_treebank}/ --converter conllu -n 1 -T -C
 
 # dev data
-python scripts/copy_files.py dev conllu assets/ud-treebanks-v2.5/${vars_ud_treebank}/ corpus/${vars_ud_treebank}/dev/
-python -m spacy convert corpus/${vars_ud_treebank}/dev/ corpus/${vars_ud_treebank}/ --converter conllu -n 1 -T -C
+python scripts/copy_files.py test conllu assets/ud-treebanks-v2.5/${vars_ud_treebank}/ corpus/${vars_ud_treebank}/test/
+python -m spacy convert corpus/${vars_ud_treebank}/test/ corpus/${vars_ud_treebank}/ --converter conllu -n 1 -T -C
