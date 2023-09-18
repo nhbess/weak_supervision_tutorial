@@ -6,10 +6,10 @@ from spacy.tokens import Span
 
 
 def load_data_split(split="train", all_labels=["DET"], subset=None):
-    part3_path = "part_3_eng_pos_tags"
+    part3_path = ""
 
     # Path to the dataset file
-    data_path = os.path.join(part3_path, "corpus", "UD_English-EWT")
+    data_path = os.path.join("corpus", "UD_English-EWT")
 
     # Create a blank spacy pipeline
     nlp = spacy.blank("xx")
@@ -43,8 +43,21 @@ def tag_all(docs, lfs):
     return docs
 
 
-NOUN, VERB, ADJ, ADV, PRON, DET, PREP, ADP, NUM, CONJ, INTJ, PRT, PUNC, X = \
-    "NOUN", "VERB", "ADJ", "ADV", "PRON", "DET", "PREP", "ADP", "NUM", "CONJ", "INTJ", "PART", "PUNCT", "X"
+NOUN, VERB, ADJ, ADV, PRON, DET, PREP, ADP, NUM, CONJ, INTJ, PRT, PUNC, X, PROPN = \
+    "NOUN", "VERB", "ADJ", "ADV", "PRON", "DET", "PREP", "ADP", "NUM", "CONJ", "INTJ", "PART", "PUNCT", "X", "PROPN"
+
+# if nltk_pos == "DT":
+#     yield token.i, token.i+1, "DET"
+# elif nltk_pos == "CD":
+#     yield token.i, token.i+1, "NUM"
+# elif nltk_pos == "NNP" or nltk_pos == "NNPS":
+#     yield token.i, token.i+1,"PROPN"
+# elif nltk_pos == "JJ" or nltk_pos == "JJR" or nltk_pos == "JJS":
+#     yield token.i, token.i+1, "ADJ"
+# elif nltk_pos == "NN" or nltk_pos == "NNS":
+#     yield token.i, token.i+1, "NOUN"
+# elif nltk_pos == "VB" or nltk_pos == "VBD" or nltk_pos == "VBG" or nltk_pos == "VBN" or nltk_pos == "VBP" or nltk_pos == "VBZ":
+#     yield token.i, token.i+1, "VERB"
 
 
 def penntreebank2universal(tag):
@@ -52,8 +65,10 @@ def penntreebank2universal(tag):
     """
     if tag.startswith(("NNP-", "NNPS-")):
         return "%s-%s" % (NOUN, tag.split("-")[-1])
-    if tag in ("NN", "NNS", "NNP", "NNPS", "NP"):
+    if tag in ("NN", "NNS", "NP"):
         return NOUN
+    if tag in ("NNP", "NNPS"):
+        return PROPN
     if tag in ("MD", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ"):
         return VERB
     if tag in ("JJ", "JJR", "JJS"):
