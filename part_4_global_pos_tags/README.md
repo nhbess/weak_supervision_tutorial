@@ -16,7 +16,7 @@ Run the following command to download the files:
 ./download_files.sh
 ```
 
-If you use Windows, download from [this link]: https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3105/ud-treebanks-v2.5.tgz
+If you use Windows, download from [this link](https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3105/ud-treebanks-v2.5.tgz)
 Further, create a folder `assets/` in the `part_4_global_pos_tags` folder, and extract the files into it.
 
 ### Extracting the files
@@ -34,7 +34,7 @@ For example, if you want to work with a German treebank, you need to first open 
 vars_ud_treebank="UD_German-GSD"
 ```
 
-Then, you need to run the following command:
+Further, activate your Python environment. Then, you need to run the following command:
 
 ```bash
 ./create_data.sh
@@ -53,3 +53,7 @@ Your solution should contain the following steps:
 3. Evaluate the labeling functions
 4. Train a model
 5. Evaluate the model
+
+Ideas 4 having fun:
+- Could multiple languages be useful?
+- How to use Spacy's transformer models, if you have a GPU?
