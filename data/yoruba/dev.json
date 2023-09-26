@@ -1,0 +1,2837 @@
+{
+    "0": {
+        "data": {
+            "text": "UNILAG Child Molestation: Ọ̀jọ̀gbọ́n Fagbohungbe ní àwọn òbí ayé òde òní kò ṣiṣẹ wọn bí iṣẹ́"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "1": {
+        "data": {
+            "text": "9th Assembly: Dogara kìlọ̀ fáwọn ẹgbẹ́ òṣèlú láti má dásí yìyan olórí ilé"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "2": {
+        "data": {
+            "text": "Illegal Rehab Centre: Feb 2008 ni wọ́n fẹ̀ṣùn kan Olore pé ó pa èèyàn 60 nígbèkùn"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "3": {
+        "data": {
+            "text": "Omí pọ̀ ju ọkà lọ fún Unai Emery, ìfìdírẹ̀mi mí ló bade fún lọ́wọ́ Frankfurt"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "4": {
+        "data": {
+            "text": "Logo Benz: Ìtanijí ni orin wa wà fún, Ẹ má ká wa lọ́wọ́ kò -Olamide"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "5": {
+        "data": {
+            "text": "Collapsed Building: Ilé alájà mẹ́rin wó l'Eko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "6": {
+        "data": {
+            "text": "Mushin Amu Market fire: Ibi táa ti ń rí oúnjẹ òòjọ́ wa nìyí o, ẹ gbà wá"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "7": {
+        "data": {
+            "text": "Africa Free Trade Zone: Kò sí ìdènà láti kó ọjà láti orílẹ̀èdè kan sí òmíràn"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "8": {
+        "data": {
+            "text": "Kogi attack: èèyàn mọ́kàndínlógún pàdánù ẹmi wọ́n ninu ikọlù náà"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "9": {
+        "data": {
+            "text": "BBC Gov Debates: Ìṣẹ̀lẹ̀ mánigbàgbé níbi ìfọ̀rọ̀wérọ̀ BBC Yorùbá l'Ọyọ"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "10": {
+        "data": {
+            "text": "LAUTECH: Ìpínlẹ̀ Ọ̀yọ́ ní ìpínlẹ̀ Ọ̀ṣun ló ń jẹ owó ọdun 2019 ní LAUTECH"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "11": {
+        "data": {
+            "text": "9th Assembly: Femi Gbajabiamila ni ẹgbẹ́ APC fọwọ́sí sùgbọ́n..."
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "12": {
+        "data": {
+            "text": "Cholera Vaccine: NAFDAC kìlọ̀ lórí ayédèrú òògùn ààrùn onígbáméjì"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "13": {
+        "data": {
+            "text": "Afe Babalola: Adarí Nàíjíríà kankan kò leè ṣàṣeyọrí pẹ̀lú òfin ọdún 1999"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "14": {
+        "data": {
+            "text": "Coffin Business: Àwọn aláṣẹ ilé ìwòsàn fẹ́ kó oníṣòwò pósí lọ sí itẹ́ okú"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "15": {
+        "data": {
+            "text": "Lassa Fever: 'Ẹ yé mu gaàrí mọ́, tẹ́ẹ̀ bá fẹ́ lùgbàdì ibà Lassa'"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "16": {
+        "data": {
+            "text": "NEPA: Ọ̀gá DisCos rọ ọmọ Nàìjíríà kí wọ́n yé pè iléeṣé tó ń p'íná ní NEPA mọ́"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "17": {
+        "data": {
+            "text": "Yollywood: \"Ben Murray Bruce, jọ̀ọ́ ṣàánú ajé, kó sàfihàn sinimá mí táyé ń fẹ́\""
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "18": {
+        "data": {
+            "text": "Supreme Court: Ilé ẹjọ́ tó ga jùlọ ní Nàìjíríà yóò ṣe ìdájọ́ àwọn gómìnà meje lónìí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            5,
+            6
+        ]
+    },
+    "19": {
+        "data": {
+            "text": "Dementia: Máṣe pe arúgbó rẹ ní àjẹ́ tàbí wèrè torí pé làákàyè rẹ̀ ń ṣíṣẹ kíṣẹ́ lọ́jọ́ ogbó"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "20": {
+        "data": {
+            "text": "Sotitobire: Ìgbẹ́jọ́ kò le è wáyé mọ́ l‘Ọ́jọ́rùú, wọ́n ṣun síwájú di Ọjọ́bọ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "21": {
+        "data": {
+            "text": "2020 Budget: ₦75m nìjọba yóò fi ra epo àti àtúnṣe ẹ̀rọ amúnáwá níléeṣẹ́ rẹ̀ lókè òkun"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "22": {
+        "data": {
+            "text": "El-Zakzaky: Aago méjìlá ọ̀sán ku ogún ìṣẹ́jú lọ́jọ́ Ẹtì ni bàálù rẹ̀ gúnlẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "23": {
+        "data": {
+            "text": "Okada Ban: Iléeṣẹ́ ọlọ́pàá láwọn yóò rún ọ̀kàdà àti kẹ̀kẹ́ Maruwa t'ọ́wọ́ bá tẹ̀ jégéjégé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "24": {
+        "data": {
+            "text": "Action Against Hunger: Ẹgbẹ́ agbésùmọ̀mí ISWAP ṣekú pa àláànú kan"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            4,
+            -1,
+            6
+        ]
+    },
+    "25": {
+        "data": {
+            "text": "NLC: Àwa àti ìjọba àpapọ̀ tí ṣé tiwá ó kù sọwọ ẹgbẹ́ òṣìṣẹ́ ìpínlẹ̀ láti yanjú tiwọn"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "26": {
+        "data": {
+            "text": "Kwara Election: Àwọn ẹgbẹ́ òṣèlú náà ní gbígbá PDP kúrò ní Kwara ló jẹ àwọn lógún"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "27": {
+        "data": {
+            "text": "Iléẹjọ́ Ekiti: Bàbá àti ọmọ jí igi gẹdú tó tó ₦100,000"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "28": {
+        "data": {
+            "text": "Domestic Violence: Obìnrin tó gún ọkọ rẹ̀ pa lórí ọ̀rọ̀ fóònù ní òun si ní ìfẹ́ ọkọ òun"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "29": {
+        "data": {
+            "text": "Supplementary Elections: Ganduje ní ìbò 1,033,695, tí alátakò rẹ̀ sì ní 1,024,713."
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "30": {
+        "data": {
+            "text": "Zamfara killings: Ṣé lóòótọ́ ni ìjọba fẹ́ kéde, state of emergency, nítorí ìpànìyàn Zamfara?"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "31": {
+        "data": {
+            "text": "Spaghetti, milíìkì, Chivita àti Àǹkàrá sọ Rabiu dèrò ẹ̀wọn ni Eko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "32": {
+        "data": {
+            "text": "Kaduna kidnap: Akẹ́kọ̀ọ́ mẹ́fà mórí bọ́ lọ́wọ́ àwọn ajínigbé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "33": {
+        "data": {
+            "text": "Royal baby: Harry ní ojú gbogbo yóò rí ọmọọba tuntun ní ọjọ́ méjì sásìkò yí"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "34": {
+        "data": {
+            "text": "Yomi Fabiyi: Èmi ti dáríjì ẹ́, kí ìwọ náà jọ̀wọ́ dáríjì mí"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "35": {
+        "data": {
+            "text": "APC vs PDP: Àwọn ọmọ Nàìjíríà ò rí ti APC rò mọ́"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "36": {
+        "data": {
+            "text": "Italy fagilé fáànì lórí ọmọ Nàìjíríà tó ń gbálẹ̀ lọ́fẹ̀ẹ́ láì gba àṣẹ"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            6
+        ]
+    },
+    "37": {
+        "data": {
+            "text": "Falomo Robbery: ọkunrin kan tó jáde nílé ìfowópamọ́ làwọn adigunjalè tọpasẹ̀ rẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "38": {
+        "data": {
+            "text": "Supreme court judgement: Àwọn ọmọ ẹgbẹ́ PDP fẹ̀hónú hàn nílé ẹjọ́ gíga jùlọ"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "39": {
+        "data": {
+            "text": "Àyájọ́ èdè abínibí: Ọjọ́ ìsinmi ni àyájọ́ èdè abínibí jẹ́ ní Bangladesh"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "40": {
+        "data": {
+            "text": "ALGON Oyo: Ìjọba ní àlá lásán tí kò le è dòhun ni ìlàkàkà àwọn alága APC láti padà sí káńṣù"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "41": {
+        "data": {
+            "text": "Sowore: Ilé aṣòfin Amẹrika ní ìwà ìfìyàjẹni tíjọba Nàíjíríà hù ń kọ àwọn lóminú"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "42": {
+        "data": {
+            "text": "Oluwo ti Iwo: O yẹ́ ká rán àwọn Fulani lọ ìlú òyìnbó láti kẹ́kọ̀ọ́"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "43": {
+        "data": {
+            "text": "Mohammed Yusuf: Àwọn ohùn tó yẹ kí o mọ nípa olùdásílẹ̀ Boko Haram"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "44": {
+        "data": {
+            "text": "Kò sí ǹkan tó ń ṣe Idris agbébọn ní Kano - Ará ilé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "45": {
+        "data": {
+            "text": "Ethiopia Airlines Crash: Iyanrìn làwọn ẹbí olóògbé bàálù Ethiopia rí gbà dípò òkú èèyàn wọn"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "46": {
+        "data": {
+            "text": "EFCC /FBI: Ọwọ́ EFCC / FBI tẹ àwọn gbájúẹ̀ 167, wọ́n gbà owó púpọ̀ padà"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "47": {
+        "data": {
+            "text": "Lagos traffic: Ohun márùn ún tó ń fa súnkẹrẹ-fàkẹrẹ nílùú Eko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4,
+            -1,
+            6
+        ]
+    },
+    "48": {
+        "data": {
+            "text": "Osun Accident: Àwọn ọmọ ijọ wa tí fí ìgbàgbọ́ gbà ìṣẹlẹ ìjàmbá ọkọ́ - ìjọ Kátólíkì"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "49": {
+        "data": {
+            "text": "Toyosi Adesanya: 'Ọ̀kọ̀ wa wọ'gbó lọ lẹ́yìn táwọn dánàdánà dàbọn bò wá'"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "50": {
+        "data": {
+            "text": "ECOWAS: Orílẹ̀èdè 15 tó wà nínú àjọ ECOWAS yóò bẹ̀rẹ̀ sí níì ná owó kan nàá l'ọ́dún 2020"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "51": {
+        "data": {
+            "text": "Osun tribunal: APC ní ìdájọ́ ilé ẹjọ kò lẹ́sẹ̀ ń lẹ̀, Ó ń gba ilé ẹjọ́ kòtẹ́milọ́rùn lọ"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "52": {
+        "data": {
+            "text": "Osun tribunal: Ilé ẹjọ́ sọ Adeleke di gómínà, ṣùgbọ́n kò tó bẹ́ẹ̀ kó kó lọ ilé ìjọba"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            5,
+            -1
+        ]
+    },
+    "53": {
+        "data": {
+            "text": "Beard Woman: Irungbọ̀n mi máa ń dójú tì mí láti jáde lọ ra nǹkan ní ọ̀sán gangan"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "54": {
+        "data": {
+            "text": "Lagos Fire: Lasema ní iná ba tó gbiná nínú yàrá kan ló fa sábàbí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "55": {
+        "data": {
+            "text": "Border Closure: Ibodè títì lè fa rògbòdìyàn láàárín orílẹ̀èdè méjì"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "56": {
+        "data": {
+            "text": "APC Ogun: Ẹjọ́ ti wà ní kóòtù, kò sẹ́ni tó lè tú ìgbìmọ̀"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "57": {
+        "data": {
+            "text": "Senegal Artist: Ojojúmọ́ ni mo ń gbé àwòrán bàbá tó pọnmọ sẹ́yìn sójú pópó"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "58": {
+        "data": {
+            "text": "Nigeria Elections 2019: Bàbá rẹ̀ àgbà ni Adegoke Adelabu Pẹnkẹlẹmẹ́sì"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "59": {
+        "data": {
+            "text": "Nigerian Soldier: Àṣìta ìbọn sọ́já pa ẹgbọn Kamsi láàrin fà kí n fà á ọ̀rọ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "60": {
+        "data": {
+            "text": "Fiditi: Àwọn olùgbé rawọ ẹbẹ sí ìjoba lẹ́yìn tí ìjì ṣí òrùlé mọ́ wọn lórí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "61": {
+        "data": {
+            "text": "Makinde fi orúkọ ọmọ ọdún 27 kan ránsẹ́ sílé aṣòfin ní ìpìnlẹ̀ Ọ̀yọ́"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4,
+            -1,
+            6
+        ]
+    },
+    "62": {
+        "data": {
+            "text": "Damasus, Omotola, Ezekwesili, Funmi Iyanda dá sí ẹ̀sùn ìfipábánilòpọ̀ Fatoyinbo"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "63": {
+        "data": {
+            "text": "Ìjàmbá Eko: Èèyàn méjì dàwátì lásìkò ìjàmbá ọkọ̀ ojú omi"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "64": {
+        "data": {
+            "text": "Ijebu: Ikú àbúrò mi ló ṣún mi dé ìdí orin kíkọ"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "65": {
+        "data": {
+            "text": "Ilé isẹ́ ológun nílò onímọ nípa kíkọjú Boko Haram -Temitope Olodo"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "66": {
+        "data": {
+            "text": "Premature Ovarian Failure: 'Ǹkan oṣù mi sọnù mo bá rò pé ó ti doyún'"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "67": {
+        "data": {
+            "text": "LASEMA dáwọ́ wíwá ọkùnrin tó bẹ́ s'ódò 3rd Mainland Bridge dúró"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "68": {
+        "data": {
+            "text": "Kemi Afolabi: Mo mọ rírì àwọn olólùfẹ́ mi, àdúrà ti wọn náà yóò gbà"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "69": {
+        "data": {
+            "text": "Mother's day: Ka àwọn ìròyìn tí BBC News Yorùbá tí ṣe fún ìdàgbàsókè àwọn obìnrin"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "70": {
+        "data": {
+            "text": "Xenophobia: Àdúgbò Lugbe kan gbínrín torí ìkọlù àwọn olùfẹ̀hónú hàn"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "71": {
+        "data": {
+            "text": "Ìjọba Ọyọ: Igba náírà péré làwọn ọlọ́kadà yóò máa san lójúmọ́ fáwọn adarí ibùdókọ̀ tuntun"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "72": {
+        "data": {
+            "text": "Ìtàn Mánigbàgbé: Ìtàn tó rọ̀ mọ́ ìdí tí wọn ṣe ń pe aya ní ìyàwó"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "73": {
+        "data": {
+            "text": "EFCC: Á sọ iye èèyàn ta rán lẹ́wọ̀n di ìlọ́po méjì ní 2019"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "74": {
+        "data": {
+            "text": "Nigeria new ministers: Obìnrin méje pèrè nínú ìgbìmọ̀ ìṣèjọba kì í ṣe ìlérí tí Buhari ṣe ní 2015"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "75": {
+        "data": {
+            "text": "Ibadan Tanker Fire Accident: Ṣúnkẹrẹ fàkẹrẹ gbalẹ̀ lẹ́yìn ìjàmbá ọkọ̀ epo"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "76": {
+        "data": {
+            "text": "Kara Bridge: Ó kéré tán, ọkọ̀ yóò lo wákàtí mẹ́ta kó tó bọ́ lójú ọ̀nà Kara tó dí pa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "77": {
+        "data": {
+            "text": "Buhari fi orukọ awọn Minisita tuntun ranṣẹ sile aṣofin"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "78": {
+        "data": {
+            "text": "Dipo Jimoh: Àburo Jimoh Ibrahim ti ní àìbìkítà ẹbí ló pa ìyá òun"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "79": {
+        "data": {
+            "text": "Òwe Yorùbá: Mélòó lo lè parí nínú òwe Yorùbá yìí?"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "80": {
+        "data": {
+            "text": "LASEPA: Wo àwọn ohun tí o le ṣe tí yóò mú ọ rugi oyin òfin ariwo pípa l'Eko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4,
+            -1,
+            6
+        ]
+    },
+    "81": {
+        "data": {
+            "text": "Kidnapping: Kò sẹ́ni tó mọ̀ bóyá àwọn ajínigbé gba owó ìtúsílẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "82": {
+        "data": {
+            "text": "Bayelsa: Douye Diri di gómìnà Bayelsa lẹ́yìn ìbúrawọlé, iléeṣẹ́ ọlọ́pàá kéde kóńlé ó gbélé"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "83": {
+        "data": {
+            "text": "Madam Saje: Lónìí ọjọ́ ìbí mi, mo bẹ Ọlọ́run kí ń má jajé ọmọ mi m‘áyé"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "84": {
+        "data": {
+            "text": "PDP: Buhari fẹ́ pa ohùn mọ́ àwọn alátakò lẹ́nu"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "85": {
+        "data": {
+            "text": "Osun Guber Poll: PDP ní ìdájọ́ ilé ẹjọ́ gíga lórí ọ̀rọ̀ Adeleke kò fẹsẹ̀ múlẹ̀"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "86": {
+        "data": {
+            "text": "Edgal Imohimi: Ìpínlẹ̀ Eko ló ti kọ́kọ́ se Kọmísánà ọlọ́pàá"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "87": {
+        "data": {
+            "text": "Brexit: Àwọn olórí ilẹ̀ Europe fẹnukò lórí àfikún sáà tí ilẹ̀ Gẹ̀ẹ́sì yóò kúrò pátápátá ní EU"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "88": {
+        "data": {
+            "text": "Marriage by Election:Àwọn ọkùnrin méjì kópa nínú ìdìbò láti yan ọkọ fún ọmọ ọdún mẹ́rìnlá"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "89": {
+        "data": {
+            "text": "Ezekwesili sọ ìdí tí ko fi dídu ipò sílẹ̀"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "90": {
+        "data": {
+            "text": "Funke Olakunrin Burial: Ọ̀gọ̀rọ̀ èèyàn péjú síbi ìṣẹ̀yẹ ìkẹyìn f'ẹ́ni re tó lọ"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "91": {
+        "data": {
+            "text": "Ọ̀ṣun Oṣogbo 2019: Ìyán gbígbóná ní wọn kọ́ fi bẹ̀rẹ̀ ọdún"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "92": {
+        "data": {
+            "text": "Kogi Election: Kí ló mú àwọn jàndùkú dáná sun Aṣáájú obìnrìn ẹgbẹ́ òṣèlú PDP mọlé ?"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "93": {
+        "data": {
+            "text": "Ọjọ́ ńlá ní DR Congo, bí ààrẹ tuntun ṣe gbaṣẹ́"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "94": {
+        "data": {
+            "text": "English Premier League: Arsenal jẹ́ọ́ àgbò tó tàdí mẹ́yìn fún Aston villapẹ̀lú àmì ayò mẹ́ta sí méjì"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "95": {
+        "data": {
+            "text": "Pátá Jíjí : Agbẹnusọ ọlọ́pàá ní àwọn olè ajípátá ń gbìdánwò ìpànìyàn ni"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96": {
+        "data": {
+            "text": "Supplementary Election: Àwọn jàndùkú yìnbọn fún òṣìṣẹ́ Inec, Ọ̀jọ̀gbọ́n Tuluen, ní Benue"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "97": {
+        "data": {
+            "text": "BBNaija: Elozonam ṣáájú, Ike tẹ̀lé kúrò nílé ẹlẹ́gbọ̀n àgbà"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "98": {
+        "data": {
+            "text": "Nigeria Elections 2019: Ènìyàn 15 kú lẹ́yìn tí ìpolongo APC parí ní Port Harcourt"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "99": {
+        "data": {
+            "text": "Nairobi Attack: Ọ̀pọ̀ àwọn tó há síbi ìkọlú náà ló se ó dígbà lórí Twitter, Whatsapp"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "100": {
+        "data": {
+            "text": "Gómìnà Kwara: A kò ní w'ojú olóṣèlú kankan to bá pín nínú owó N5bn ní Kwara"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "101": {
+        "data": {
+            "text": "Buhari fi ọ̀kadà, ọkọ̀ àti $500,000 ta orílẹ̀èdè Guinea Bissau l'ọ́rẹ fún ètò ìdìbò wọ̀n"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "102": {
+        "data": {
+            "text": "Collapse Building: Àjọ LASEMA ti gbe ọkùnrin náà lọ sílé ìwòsàn"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "103": {
+        "data": {
+            "text": "Ìtàn Mánigbàgbé: Baṣọ̀run Gáà jẹ́ àgbà ìjòyè tó le è yípadà sí ẹranko tó bá wù ú"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "104": {
+        "data": {
+            "text": "2023 Presidency: Àwọn ọmọ Nàìjíríà ń dá awuyewuye sílẹ̀ lórí Tinubu ní Twitter"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "105": {
+        "data": {
+            "text": "APC: Wọn kò fún wa láàyè láti dibo nígbà ti ẹ̀ri wà pe ẹgbẹ́ PDP ń díbo ní àìmọye ìgbà"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "106": {
+        "data": {
+            "text": "Google Top Search 2019: Naira Marley na Atiku pa nínú àwọn orúkọ tàwọn èèyàn ń wá jùlọ ní 2019"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "107": {
+        "data": {
+            "text": "Election 2019 Updates: Atiku ní ìbò 18m ni mo ní, Buhari sì ní ìbò 16.5m"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "108": {
+        "data": {
+            "text": "Bring back our girls: Obi àwọn ọmọ Chibok 34 ló kú ní ọdún márùn ún"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "109": {
+        "data": {
+            "text": "Amotekun: Fatomilola ní gaga ọwọ̀ làwọn baba wa fi ń ṣọ́ ilé, òyìnbó ló sọ wá di ọ̀lẹ"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "110": {
+        "data": {
+            "text": "Eid-el Kabir: Buhari rọ àwọn mùsùlùmí láti yàgò fún ìwà ipá nínú ìkíni ọdún"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "111": {
+        "data": {
+            "text": "EKIFEST: kí làwọn ohun tó fakọyọ níbi àjọ̀dún àṣà nípínlẹ̀ Ekiti, EKIFEST tọdún 2019"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "112": {
+        "data": {
+            "text": "Bishop Oyedepo: Ìlẹ̀ Amẹrika ní ìròyìn òfegè ní pé àwọn fi físà dun Bísọ̀bù Oyedepo"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "113": {
+        "data": {
+            "text": "LASU student killing: Ilé ẹjọ́ pàṣẹ kí wọ́n fi àwọn tó pa àkẹ́kọ̀ọ́ LASU sí ẹ̀wọ̀n"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "114": {
+        "data": {
+            "text": "Nigeria 2019 Elections: Ṣé ọwọ́ ti ká Boko Haram ní Nàìjíríà"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "115": {
+        "data": {
+            "text": "Teachers‘ Day: Ìjọba àpapọ̀ ní ètò ń lọ láti pèsè owó àjẹmọ́nú fáwọn olùkọ́ nígbèríko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "116": {
+        "data": {
+            "text": "Ondo Kidnap: Iléeṣẹ́ ọlọ́pàá ní òun ń ṣa ipá láti rí ọmọ tó sọnù náà"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "117": {
+        "data": {
+            "text": "ASUU ní ìjọba àpapọ̀ ni kò fẹ́ kí ìyanṣẹ́lódì àwọn o pari"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "118": {
+        "data": {
+            "text": "Naira Marley: Wo àwọn ìṣẹ̀lẹ̀ tó mú Naira Marley di òrìṣà àkúnlẹ̀bọ lọ́dún 2019"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "119": {
+        "data": {
+            "text": "Election Update 2019: Àwọn olórí orílẹ̀èdè lágbàyéé ń kí Buhari kú oríire"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "120": {
+        "data": {
+            "text": "Seyi Makinde: Pálí Ìṣáná la fi ń bẹ ẹlòmìí l'Oyo kí wọ́n tó ṣe ètò ìlera ọ̀fẹ́ - Kọmíṣánà"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            1,
+            2,
+            -1,
+            4,
+            5,
+            6
+        ]
+    },
+    "121": {
+        "data": {
+            "text": "Sanwo-Olu: Kò ní sí súnkẹrẹ-fàkẹrẹ ọkọ mọ́ l‘Eko tí mo bá dé ipò"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "122": {
+        "data": {
+            "text": "Election Update 2019: Kíni ifidirẹmi Saraki tumọ fún òṣèlú Kwara"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "123": {
+        "data": {
+            "text": "Jazz music: Ayọ̀ tó ń bẹ nínú orin Jazz"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "124": {
+        "data": {
+            "text": "JAMB: akẹ́kọ̀ọ́ tí kò bá ní nọ́mbà ìdánimọ NIN kò ní lè kọ ìdánwò ìgbaniwọlé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "125": {
+        "data": {
+            "text": "Ghana Floods: Èèyàn méje pàdánú ẹ̀mí wọn nínú ìjàmbá ẹ̀kún omi"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "126": {
+        "data": {
+            "text": "Koffi Olomide: Ilé ẹjọ́ kan nílẹ̀ Faranse ló sọ́ sẹ́wọ̀n ọdún méjì"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "127": {
+        "data": {
+            "text": "Xenophobic Attack: Ìjọba rọ ọmọ Nàìjíríà pé kí wọ́n dẹ́kun kíkọlu iléeṣẹ́ South Africa"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "128": {
+        "data": {
+            "text": "Building Collapse: Wọ́n yọ èèyàn mẹ́rin níbi ilé mííràn tó wó l'Eko"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "129": {
+        "data": {
+            "text": "Osun Accident: Agbegbe Gádà ní ìlú Ẹdẹ ní ìṣẹ̀lẹ̀ náà ti wáyé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "130": {
+        "data": {
+            "text": "Ajọ FRSC ṣèlérí láti fọwọ́ òfín mu eegun tó bá tasẹ̀ àgẹ̀rẹ̀ lásìkò ọdún Keresi"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "131": {
+        "data": {
+            "text": "Àṣà Yorùbá: Èèwọ̀ ni kí obìnrin wọ igbó orò"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "132": {
+        "data": {
+            "text": "Osun elections: Ademọla Adeleke, Fayoṣe, Atiku sọ̀rọ̀ lórí ìdájọ́ ilé ẹjọ́"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "133": {
+        "data": {
+            "text": "Japan Visit: Ààrẹ Shinzo Abe kéde $413,000 owó ìrànwọ́ fún Nàìjíríà"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "134": {
+        "data": {
+            "text": "Oyo Schools: Iléẹ̀kọ́ alákọ̀bẹ̀rẹ́ gba ₦126m, tí girama gba ₦400m owó ẹ̀náwó"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "135": {
+        "data": {
+            "text": "Man City lékè tábílì Premier League, Liverpool na Fulham"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "136": {
+        "data": {
+            "text": "2019 Elections: Bá wo ni ipa àwọn olórí ẹ̀sìn ṣe lágbára tó nínú èsì ìdìbò?"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "137": {
+        "data": {
+            "text": "Sophie Oluwole: Màmá Onímọ̀ Òye kọjá lọ lẹ́ni ọdún 83"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "138": {
+        "data": {
+            "text": "Kannywood Kidnapping: 'Mọ́ngòrò nìkan ni wọ́n fún mi jẹ ní àhámọ́ ajínigbé'"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "139": {
+        "data": {
+            "text": "Revolution Now: Ẹgbẹ́ òṣèlú AAC lé Ṣowore àti àwọn 28 mííràn"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "140": {
+        "data": {
+            "text": "Czech Republic: Takọ-tabo Kìnìún ni ọkùnrin náà ń sìn nínú àgò kanṣoṣo"
+        },
+        "label": 6,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "141": {
+        "data": {
+            "text": "Wakanda Forever : Aubameyang fi 'Black Panther' dáwọ̀ọ́ ìdùnnú lórí pápá"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "142": {
+        "data": {
+            "text": "Nollywood gba àlejò ọmọkùnrin jòjòló"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "143": {
+        "data": {
+            "text": "Imoyosola Adetoro: Àwọn èèyàn sọ fún ìyàwó mi pé mo ti jẹ́ẹ̀jẹ́ nínú awo pé ń kò ní bímọ"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "144": {
+        "data": {
+            "text": "Olubadan: Ìpàdé àláàfíà wáyé láàrin Olubadan àti àwọn àgbà ìjòyè tí Ajimobi sọ di ọba."
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "145": {
+        "data": {
+            "text": "Taiwo Hassan: Ọ̀pọ̀ èèyàn ló sá fún mi nígbà tí mo dùbúlẹ̀ àìsàn"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "146": {
+        "data": {
+            "text": "Ilé Ìgbìmọ̀ Aṣòfin gba àbá owó ìṣuná 2019 wọlé pẹ̀lú àfikún N10bn"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "147": {
+        "data": {
+            "text": "Ìdí rèé tí Man U ṣe já Odion Ighalo sílẹ̀ nínú ìgbáradì rẹ̀ tí yóò wáyé ni Spain"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "148": {
+        "data": {
+            "text": "Ìtàn Mánigbàgbé: Lára àwọn ọmọ-ọmọ Ajayi Crowther ni Herbert Macaulay"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "149": {
+        "data": {
+            "text": "NBC fọwọ́ sí ìdásílẹ̀ ilé iṣẹ́ Fulani Radio"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "150": {
+        "data": {
+            "text": "Kenyan: Èyí ni bí wọ́n ṣe n lo Facebook lati ṣekupa awọn oníjàgídíjàgan"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "151": {
+        "data": {
+            "text": "Customṣ Service: Ọkọ̀ tòkunbọ̀, àpò ìrẹsì àt'ohun ìjà olóró lọwọ́ òfin ti tẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "152": {
+        "data": {
+            "text": "Zainab Habib tí wọ́n fẹ̀sùn òògùn olóró kàn gba ìtúsílẹ̀ ní Saudi"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "153": {
+        "data": {
+            "text": "INEC: Òpómúléró ni ASUU jẹ́ fún àṣeyọrí ìbò 2019"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "154": {
+        "data": {
+            "text": "Fayose: APC Ekiti ní àwọn olóṣèlú tó ti fìdírẹmi kò le è ráyè láàrin àwọn"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "155": {
+        "data": {
+            "text": "Tunde Bakare: Ọmọ Nàíjíríà, ẹ gbáradì fún àgbékalẹ̀ Nàíjíríà tuntun"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "156": {
+        "data": {
+            "text": "Abdurasheed Maina: Adájọ́ ní kí ọ̀gá àjọ tó rí sí owó ìfẹ̀yìntì tẹ́lẹ̀ sí wà látìmọ́lé"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "157": {
+        "data": {
+            "text": "Nigeria 2019 Election: Ilé iṣé ológun ní àwọn olóṣèlú kan fẹ́ yin àdó olóró lásìkò ìbò gómìnà"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "158": {
+        "data": {
+            "text": "Xenophobia: Alùpùpù ni wọ́n fi gbé epo pẹtiró wá dáná ṣun iléeṣẹ́ MTN"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "159": {
+        "data": {
+            "text": "Nigeria 2019 Election: Àgbà Yorùbá ní Ila Ọrangun pèpàdé àlàáfíà"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "160": {
+        "data": {
+            "text": "#WhereIsEspiritDCorp: Ohun tó kọjú sẹ́nìkan, ẹ̀yìn ló kọ sí ẹ́lòmíì lọ̀rọ̀ yìí lórí ayélejára"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "161": {
+        "data": {
+            "text": "Osinbajo: Igbákejì ààrẹ fèsì sí àhésọ pé ó kọ̀wé fipò sílẹ́"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "162": {
+        "data": {
+            "text": "Election 2019: Atiku Abubakar bẹ̀rẹ̀ ìgbésẹ̀ àti di ààrẹ Nàìjíríà pẹ̀lú ìpolongo ní Sokoto"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "163": {
+        "data": {
+            "text": "Dagrin: Òní ló pé ọdún mẹ́sán án ti Dagrin dágbére fún ayé"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "164": {
+        "data": {
+            "text": "Xenophobia: Ezekwesili ní bá ṣe yanjú ìkọlù South Africa ló fa sábàbí"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "165": {
+        "data": {
+            "text": "Insecurity: Ọọ̀ni ni báwọn ọba alayé ṣe lọ́wọ́ nínú àgbékalẹ̀ Amotekun, ni yóò ṣe tọ́jọ́"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "166": {
+        "data": {
+            "text": "Ìbálópọ̀ nínú ọkọ̀: Ọlọ́pàá ìpínlẹ̀ Eko tako ìsesí yìí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "167": {
+        "data": {
+            "text": "Àtúpalẹ̀ ìlànà bí Atiku ṣe fẹ́ kojú ìwà ìbàjẹ́"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "168": {
+        "data": {
+            "text": "Ìtàn mánigbàgbé: J.F Odunjo kó ipa ribiribi sí àgbéga èdè Yorùbá"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "169": {
+        "data": {
+            "text": "Chelsea kéde Frank Lampard gẹ́gẹ́ bíi olùkọ́ni tuntun"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "170": {
+        "data": {
+            "text": "Election Update 2019: Amúgbálẹgbẹ̀ẹ́ Saraki ní ọ̀gá òun kò kí olùdíje APC kú oríire"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "171": {
+        "data": {
+            "text": "Premier league: VAR gba ẹ̀tọ́ Aubameyan fún un ní Old Trafford, ọ̀mì ni Manchester United, Arsenal ta"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "172": {
+        "data": {
+            "text": "Suicide attack: Ìlú Konduga Pàdánù ọ̀gọ̀ọ̀rọ̀ ènìyàn"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "173": {
+        "data": {
+            "text": "Maryam Sanda: Toyin Abraham, Femi Adebayo, Tayo Sobola barajẹ́ lórí ìdájọ́ ikú"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "174": {
+        "data": {
+            "text": "Atiku Abubakar - Kò dájú pé ìdìbò 2019 yóò kẹ́sẹjárí"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "175": {
+        "data": {
+            "text": "Donald Trump ti gúnlẹ̀ sí UK fún àbẹ̀wò ọlọ́jọ́ mẹ́ta"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "176": {
+        "data": {
+            "text": "BBC Gov Debate: Àwọn olùdíje gómìnà Oyo gbà lati san 30,000N owó osù òsìsẹ́"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            6
+        ]
+    },
+    "177": {
+        "data": {
+            "text": "Imo Airport Fire Outbreak: Iná sọ ní pápákọ̀ òfurufú ìpínlẹ̀ Imo"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "178": {
+        "data": {
+            "text": "APC Kogi Primaries: Yahaya Bello la àwọn olùdíje mẹ́sàn án mọ́lẹ̀ fún àṣíá gómìnà ìpínlẹ̀ Kogi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            -1,
+            -1
+        ]
+    },
+    "179": {
+        "data": {
+            "text": "US Embassy ní bí o bá fẹ gbà Visa, àfi kò yọjú funrararẹ"
+        },
+        "label": 6,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "180": {
+        "data": {
+            "text": "Climate Change: Àwọn ọmọ Nàìjíríà mẹ́ta gba owó ìrànwọ́ iwádìí ìjìnlẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "181": {
+        "data": {
+            "text": "Super Eagles kò rántí kó ohun eèlò ìgbábọọlu wọn dání"
+        },
+        "label": 5,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            5,
+            -1
+        ]
+    },
+    "182": {
+        "data": {
+            "text": "Electricity: Ìjọba àpapọ̀ f'ẹ́ já iná mànàmáná orílẹ̀èdè Togo àti Benin Republic nítorí gbèsè $7m"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "183": {
+        "data": {
+            "text": "Coronavirus: Ilé aṣojú-ṣòfin tako kíkó ọmọ Nàìjíríà wálé láti China"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1,
+            5,
+            6
+        ]
+    },
+    "184": {
+        "data": {
+            "text": "Shiite Movement: Shiite fèsì lórí àṣẹ ilé ẹjọ́ láti máa pé wọ́n ní ẹgbẹ́ agbésùnmọ̀mí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            5,
+            -1
+        ]
+    },
+    "185": {
+        "data": {
+            "text": "9th Assembly: PDP ní láìpẹ́ làwọn aráàlú yóò mọ ìyàtọ̀ lórí àkóso ilé aṣòfin"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            5,
+            -1
+        ]
+    },
+    "186": {
+        "data": {
+            "text": "Adekunle Gold: Ọdún márùn ún ni mo fi mọ Simi ká tó ṣègbéyàwó"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "187": {
+        "data": {
+            "text": "Biafra at 50: Ọ̀nà tí ẹja panla gbà di gbajúgbajà nínú ìṣasùn nìyí"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    },
+    "188": {
+        "data": {
+            "text": "Death at Airport: Ọkùnrin kan jáde láyé bó ṣe gba ìròyìn ikú aya rẹ̀"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            6
+        ]
+    }
+}

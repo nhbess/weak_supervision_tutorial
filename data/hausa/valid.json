@@ -1,0 +1,3772 @@
+{
+    "0": {
+        "data": {
+            "text": "Matasan Arewa Sun Juya Baya Ga Juyin Juya Hali"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "1": {
+        "data": {
+            "text": "Kotu Ta Sake Dage Sauraron Karar El Zakzaky"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "2": {
+        "data": {
+            "text": "NAHCON Ta Rufe Karbar Kudin Kujerar Aikin Hajjin Bana"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "3": {
+        "data": {
+            "text": "Kwanaki Kadan Suka Ragewa Kungiyar Boko Haram A Duniya"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "4": {
+        "data": {
+            "text": "Yadda Aka Kashe 'Yan Sanda Aka Sace Ma'aikatan Kamfanin Shell"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "5": {
+        "data": {
+            "text": "Wata Kotun Tarayya Ta Yanke Hukuncin Anshe kaddarorin Kamfanin P&ID"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "6": {
+        "data": {
+            "text": "Fashewar Bututun Mai Ta Halaka Mutane Da Dama a Bayelsa"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "7": {
+        "data": {
+            "text": "Za a Daina Baiwa Daliban Firamare Abinci a Takarda"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "8": {
+        "data": {
+            "text": "Za'a Gurfanar Da Matar Da Aka Kama Da Damfara Ta Yanar Gizo"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "9": {
+        "data": {
+            "text": "Tsohon Ma’aikacin VOA Umar Sa’id Tudun Wada Ya Rasu"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "10": {
+        "data": {
+            "text": "Matakin \"Operation Sharar Daji\" Ya Bude Zirga Zirga Tsakanin Zamfara Da Katsina"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            4
+        ]
+    },
+    "11": {
+        "data": {
+            "text": "Malaman Jami'a Sunyi Tsokaci Kan Ranar Tunawa Da Cinikin Bayi"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "12": {
+        "data": {
+            "text": "Obasanjo Ya Kwatanta Gwamnatin Buhari Da Ta Abacha"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "13": {
+        "data": {
+            "text": "Kashe Mutane: \"Matakin Bai-Daya Shi Ne Mafita\""
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "14": {
+        "data": {
+            "text": "El-Zakzaky Ya Dawo Najeriya Daga India"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "15": {
+        "data": {
+            "text": "Damuwa Akan Hare Haren Kungiyar Boko Haram"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "16": {
+        "data": {
+            "text": "Rashin Hukuncin Da Ya Dace Ga Laifin Fyade, Ya Kai Ga Zanga-Zanga"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "17": {
+        "data": {
+            "text": "Kotu Ta Dakatar Da Yajin Aikin Da Ma'aikatan Najeriya Ke Shirin Yi"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "18": {
+        "data": {
+            "text": "Najeriya: Taron Muryar Amurka Da Abokan Huldar Ta Daga Kasashen Yammacin Afirka"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "19": {
+        "data": {
+            "text": "Lambar Tantance 'Yan Kasa Nada Muhimanci Ga Duk 'Yan Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "20": {
+        "data": {
+            "text": "Bankin Masana'antu Ba Zai Yafewa Masu Burodin Rogo Bashin Biliyan Uku Da Rabi Ba"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "21": {
+        "data": {
+            "text": "An Tabbatar Da Kisan Wasu Mutane Biyu a Filato"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "22": {
+        "data": {
+            "text": "Dakarun Najeriya Na Samun Horo Kan Sabbin Hanyoyin Yaki Da Ta'addanci"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "23": {
+        "data": {
+            "text": "Miyagun Mutane Daga Zamfara Suna Barna A Jihar Katsina"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            4
+        ]
+    },
+    "24": {
+        "data": {
+            "text": "Rundunar ‘Yan Sandan Najeriya Ta Bukaci Wasu Sanatoci Biyu Su Mika Kansu"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "25": {
+        "data": {
+            "text": "PDP Ta Ce Wadanda Suka Sauya Sheka Basu Da Wani Tasiri"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "26": {
+        "data": {
+            "text": "Yadda Najeriya Ke Kashe Dubban Biliyoyi Wajen Shigar Da Man Fetur"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "27": {
+        "data": {
+            "text": "Ka-Ce Na-Cen Jami’an Tsaro Da ‘Yan Shi’a"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "28": {
+        "data": {
+            "text": "An Tura Jiragen Yaki Jahar Filato"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "29": {
+        "data": {
+            "text": "Dakarun Hadin Gwiwa Sun Kashe ‘Yan Boko Haram 39"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "30": {
+        "data": {
+            "text": "Buhari Ya Bukaci a Maido Da Kudin Najeriya Da Aka Sace"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "31": {
+        "data": {
+            "text": "Za'a Kashe Fiye da Naira Biliyan Hudu"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "32": {
+        "data": {
+            "text": "Jirgin Yakin Najeriya Ya Yi Hatsari a Borno"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            2,
+            -1,
+            4
+        ]
+    },
+    "33": {
+        "data": {
+            "text": "Shi'a: Za Mu Fito Muzaharar Ashura A Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "34": {
+        "data": {
+            "text": "Fadar Shugaban Najeriya Ta Yi Watsi Da Barazanar Nnamdi Kanu"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "35": {
+        "data": {
+            "text": "Yadda Karin Albashi Ke Shafar Farashin Kayayyaki"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "36": {
+        "data": {
+            "text": "Yan sanda Sun Ce Sun Cafke Gungun Barayin Da Suka Kashe Farfesa Halima Idris."
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "37": {
+        "data": {
+            "text": "An Dakatar da Babban Alkalin Kotun Kolin Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "38": {
+        "data": {
+            "text": "Iyayen Leah Sharibu Sun Tantance Muryar 'Yarsu"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            4
+        ]
+    },
+    "39": {
+        "data": {
+            "text": "Al'ummar Birnin N'Konni Ta Firgita Da Hare Haren Da Ya Afku A Jihar Sokoto"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "40": {
+        "data": {
+            "text": "Ba Talaucewa Na Yi Ba, Neman Halal Na Ke Yi – Inji Mallam Isa Yuguda"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "41": {
+        "data": {
+            "text": "Hukumar Gidan Yarin Najeriya Ta Samu Shaidar Karramawa Da Kyautar Kudi"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "42": {
+        "data": {
+            "text": "An Yi Garkuwa Da Mutum 40 Cikin Kwanaki Biyu a Jihar Niger - Shaidu"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "43": {
+        "data": {
+            "text": "Za Mu Cigaba Da Tura Matasa Karatu Kasashen Waje- In Ji Kwankwaso"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "44": {
+        "data": {
+            "text": "Rasuwar Justice Mamman Nasir"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "45": {
+        "data": {
+            "text": "NAFDAC Ta Kama Kwalaben Maganin Tari Miliyan Biyu Da Rabi"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "46": {
+        "data": {
+            "text": "Yan Takarar Da Suka Fusata Sun Sauya Sheka a Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "47": {
+        "data": {
+            "text": "Najeriya: Hukumar Kwastam Ta Yi Babban Kamu A Jihar Legas"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "48": {
+        "data": {
+            "text": "Taraba: Sojojin Sama Sun Fara Atisayen Tabbatar Da Tsaro a Mambilla"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "49": {
+        "data": {
+            "text": "Majalisar Wakilan Najeriya Ta Amince Da Dokar Haramta Safarar Jakuna"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "50": {
+        "data": {
+            "text": "Dalilin Tura Dakaru Na Musamman Zuwa Kaduna"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "51": {
+        "data": {
+            "text": "Yan Sara-Suka 500 Sun Ajiye Makamansu a Bauchi"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "52": {
+        "data": {
+            "text": "Dalilin Da Ya Sa Aka Dawo Da Ma'aikatar 'Yan Sanda - Dingyadi"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "53": {
+        "data": {
+            "text": "Kungiyar Matasan Arewa Ta Bukaci a Canja Kwamandojin Sojojin Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "54": {
+        "data": {
+            "text": "Sojoji Sun Gano Gawar Gen. Alkali"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "55": {
+        "data": {
+            "text": "Bauchi: Shekara Guda Kenan Wadanda Ibtila’i Ya Fadawa Basu Ga Tallafin Da Aka Tara Musu Ba"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "56": {
+        "data": {
+            "text": "An Horar Da ‘Yan Kato Da Gora a Shiyar Arewa Maso Gabashin Najeriya"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "57": {
+        "data": {
+            "text": "Cancanta Za Mu Duba Wajen Diban Ma'aikata - NNPC"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "58": {
+        "data": {
+            "text": "Mahaifiyar Leah Ta Nemi Gwamnati Ta Cika Alkawarin Kubutar Da 'Yarta"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "59": {
+        "data": {
+            "text": "Rundunar ‘Yan sandan Jihar Borno Ta Kama Wasu Matasa 58"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "60": {
+        "data": {
+            "text": "Shugabanin Fulani Da Na Hukumomin Tsaron Najeriya Sun Tattauna A Kebbi"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "61": {
+        "data": {
+            "text": "Ana Ci Gaba Da Kai Hare-Hare A Pilato"
+        },
+        "label": 2,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "62": {
+        "data": {
+            "text": "Fadar Shugaban Najeriya ta Maida Martani Akan Kudurin Hana Yada Labaran Bogi"
+        },
+        "label": 2,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "63": {
+        "data": {
+            "text": "Batutuwan Da Taron Muryar Amurka Ya Kunsa Kan Zaben Najeriya"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "64": {
+        "data": {
+            "text": "Rundunar ‘Yan Sandan Najeriya Ta Bayar Da Tabbacin Samar Da Tsaro a Zaben Gwamnoni"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "65": {
+        "data": {
+            "text": "Yau Ake Fara Yakin Neman Zaben Najeriya Na 2019"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "66": {
+        "data": {
+            "text": "Shugaba Buhari Ya Bayyana Rashin Jin Dadin Danganta Da 'Yan Majalissun Tarraya"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "67": {
+        "data": {
+            "text": "Akwai Bukatar Hadin Kai A Zaben Gwamnoni Na Ranar Asabar"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "68": {
+        "data": {
+            "text": "Sojojin Najeriya Sun Yi Ikrarin Gano Wata Makarkashiya Kan Zabe"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "69": {
+        "data": {
+            "text": "Ba Za'a Kidaya Kuri'ar Runfar Da 'Yan Banga Suka Hana Amfani Da Na'ura Ba"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "70": {
+        "data": {
+            "text": "Ya Kamata INEC Ta Soke Zaben 'Yan Majalisun Jihar Pilato"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "71": {
+        "data": {
+            "text": "Abin Da Buhari Ya Ce Kan Dage Zabe"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "72": {
+        "data": {
+            "text": "Dalilin Da Ya Sa APC Ta Dakatar Da Okorocha, Amosun"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "73": {
+        "data": {
+            "text": "An Soke Zaben Fidda Gwani Na Jam'iyyar APC A Jihar Legas"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "74": {
+        "data": {
+            "text": "Biyan Basukan Da Aka Ba Jihohi A Halin Yanzu Matsala Ce-Gwamnan Bauchi"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "75": {
+        "data": {
+            "text": "Babu Adalci A Raba Mukaman Gwamnatin APC-Atiku Abubakar"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "76": {
+        "data": {
+            "text": "Gwamnatin Jihar Adamawa Ta Kafa Kwamitin Bincike Harin Michika"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "77": {
+        "data": {
+            "text": "INEC Ta Dage Zaben Najeriya"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "78": {
+        "data": {
+            "text": "Fatan Al’ummar Jihar Nasarawa Ga Wadanda Za Su Zaba"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "79": {
+        "data": {
+            "text": "Tsaro: Buhari Ya Tura Kwamiti Zuwa Katsina"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "80": {
+        "data": {
+            "text": "Ja’afar Ja’afar Ya Bayyana A Gaban Kwamitin Majalisar Dokokin Kano"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "81": {
+        "data": {
+            "text": "Shin Ganduje Ya Karbi Cinhanci Ko A'a?"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "82": {
+        "data": {
+            "text": "Dan Shekaru 33 Ya Zama Kakakin Majalisar Dokoki A Filato"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "83": {
+        "data": {
+            "text": "An Samu Sabani Kan Umurnin Da 'Yan awaren Biafra Suka Bayar"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "84": {
+        "data": {
+            "text": "Gwamnatin Jihar Zamfara Ta Cimma Yarjejeniyar Dala Biliyan Daya"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "85": {
+        "data": {
+            "text": "An Dage Zaman Majalisun Tarayyar Nigeria"
+        },
+        "label": 3,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "86": {
+        "data": {
+            "text": "Jam'iyyar PDP Ta Lashe Adamawa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "87": {
+        "data": {
+            "text": "Mabanbantan Ra'ayoyi Da Masana Ke Bayyanawa Kan Dage Zaben Najeriya"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "88": {
+        "data": {
+            "text": "Ba a Dage Zaben Adamawa Ba - INEC"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "89": {
+        "data": {
+            "text": "Zafafan Kalamai Basune Zabe Ba, Kyautatawa Talakawa Itace Ansa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "90": {
+        "data": {
+            "text": "Mutanen Kudancin Borno Na Neman Kujerar Gwamnan Jihar"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            3,
+            4
+        ]
+    },
+    "91": {
+        "data": {
+            "text": "Kungiyar Masu Masana'antu Ta Mika Kokenta Ga Buhari"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "92": {
+        "data": {
+            "text": "Dogara Ya Yi Kaura Zuwa PDP"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "93": {
+        "data": {
+            "text": "Ci Gaba Da Rufe Iyakan Najeriya Ya Raba Kawunan 'Yan Majalisar Dattawa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "94": {
+        "data": {
+            "text": "Adamawa: An Bankado Tulin Bashin Da Ake Bin Gwamnatin Adamawa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "95": {
+        "data": {
+            "text": "A Karon Farko An Gurfanar Da Wani Jigo A Gwamnatin Buhari"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "96": {
+        "data": {
+            "text": "Zaben 2019:Atiku Ya yi Alkawarin Ci Gaba Da Noman Rani A Jigawa"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "97": {
+        "data": {
+            "text": "Jam’iyyun Adawa Sun Hada Kai Don Kawar Da Gwamnan Jihar Bauchi"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "98": {
+        "data": {
+            "text": "Muhimman Bayanai Kan Yadda Ake Kada Kuri’a"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "99": {
+        "data": {
+            "text": "Wa’adina Na Karshe Zai Zamanto Mai Tsauri – Buhari"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "100": {
+        "data": {
+            "text": "Ana Takaddama Kan Yadda Za'a Fitar Da 'Yan Takara A Jam'iyyar APC"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "101": {
+        "data": {
+            "text": "Rashin Ba Kananan Hukumomi Ikon Kasafta Kudinsu Ya Kawo Koma Baya"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "102": {
+        "data": {
+            "text": "Zaben Gobe: An Koka Da Baza Sojoji a Taraba"
+        },
+        "label": 3,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "103": {
+        "data": {
+            "text": "Guguwar Idai: An Shiga Yini Na Biyu Na Zaman Makoki a Mozambique"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "104": {
+        "data": {
+            "text": "An Samu Kwayar Cutar Ebola a Kasar Uganda"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "105": {
+        "data": {
+            "text": "Nijar: Bukin Karrama Dalibai Masu Kwazo Da Hazaka A Fannin Kimiya"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "106": {
+        "data": {
+            "text": "Shugaban Kasar Tunisia Beji Caid Essebsi Ya Rasu"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "107": {
+        "data": {
+            "text": "Wasu Hare-Hare Da Aka Kai A Libya Na Iya Zama Laifin Yaki"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "108": {
+        "data": {
+            "text": "NIJAR: Kwamitin Tsaro Na Majalisar Dokokin Kasa Ya Ziyarci Yankin Diffa"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "109": {
+        "data": {
+            "text": "Gwamnatin Soji A Sudan Ta Soke Yarjejeniya Da Fararen Hula"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "110": {
+        "data": {
+            "text": "Tattalin Arzikin Diffa Ya Tabarbare - Mazauna Yankin"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "111": {
+        "data": {
+            "text": "Ana Ci Gaba Da Zanga-zagar Neman Omar al-Bashir Ya Yi Murabus"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "112": {
+        "data": {
+            "text": "Gwannatin Nijer Na Kokarin Magance Kalubalen Ruwan Sha A Kasar"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "113": {
+        "data": {
+            "text": "Majalisar Dokokin Kenya Ta Yi Waje Da Jaririn Wata Biyar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "114": {
+        "data": {
+            "text": "Kin Baki: Buhari Na Daukar Matakan Martani Ga Afrika Ta Kudu"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "115": {
+        "data": {
+            "text": "Akawunan Kotu A Jamhuriyar Nijar Sun Shiga Yajin Aiki"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "116": {
+        "data": {
+            "text": "Libya: Wani Hari Ya Hallaka Bakin Hauren Afirka Da Dama"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "117": {
+        "data": {
+            "text": "Majalisar Dokokin Nijar Ta Dau Azama Don Yaki Da Ta'addanci"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "118": {
+        "data": {
+            "text": "Al Bashir Ya Ajiye Shugabancin Jam'iyyarsa Ta NCP"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "119": {
+        "data": {
+            "text": "Yan Tada Kayar Baya Sun Sa Iyaye Cire 'Ya'yan Su Daga Makaranta A Kamaru"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "120": {
+        "data": {
+            "text": "Majalisar Dokokin Nijar Na Jaddada Muhimmancin Zaman Lafiya"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "121": {
+        "data": {
+            "text": "An Sanar Da Kafa Gwamnatin Hadin Gwiwa A Congo"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "122": {
+        "data": {
+            "text": "Hukumar NAPTIP Ta Mika ‘Yan Mata Takwas Da Aka Yi Safararsu Ga Kasar Ghana"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "123": {
+        "data": {
+            "text": "Gwamnatin Kamaru Ta Tsare Sojoji 7 Da Ake Zargi Da Kashe Mata Da Yara"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "124": {
+        "data": {
+            "text": "Najeriya Ta Shiga Yarjejeniyar Cinikayya Tsakanin Kasashen Afirka"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "125": {
+        "data": {
+            "text": "An Bukaci ‘Yan Jaridar Niger Da Su Yi Takatsantsan Da Labarun Karya"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "126": {
+        "data": {
+            "text": "An Fara Shirin Horar Da Mata Aikin Tsaro A Yankin Sahel"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "127": {
+        "data": {
+            "text": "Rashin Wutar Lantarki Yana Barazana Ga Tattalin Arzikin Zimbabwe"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "128": {
+        "data": {
+            "text": "An Yiwa Shugaban Sudan Omar Al-Bashir Juyin Mulki"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "129": {
+        "data": {
+            "text": "Wani Kwale-Kwale Yayi Sanadiyyar Mutuwar Mutane 14 A Nijar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "130": {
+        "data": {
+            "text": "Ministan Cikin Gidan Nijer Bazoum Mohammed Ya Je Yankin Azawak"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "131": {
+        "data": {
+            "text": "Shugaban Ivory Coast Alassane Ouattara ya Yiwa Fursunoni 800 Afuwa"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "132": {
+        "data": {
+            "text": "An Sami Asarar Rayuka Bayan Nutsewar Wani Jirgin Ruwa a Congo"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "133": {
+        "data": {
+            "text": "Yankunan Somalia Biyar Suna Barazanar Ballewa Daga Kasar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "134": {
+        "data": {
+            "text": "Yan Boko Haram Na Tserewa Zuwa Wasu Kasashen Afirka"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "135": {
+        "data": {
+            "text": "Matasan Kirista Sun Fara Gudanar Da Taron Kasa a Jamhuriyar Nijar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "136": {
+        "data": {
+            "text": "Yiwa Mata Fiyade Ya Zama Babbar Annoba A Kasar Saliyo"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "137": {
+        "data": {
+            "text": "Bam Ya Halaka 'Yan sanda a Masar"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "138": {
+        "data": {
+            "text": "Jam'iyyar PNDS ta Tsaida Bazoum Mohammed a Matsayin Dan Takarar Shugaban Kasa"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "139": {
+        "data": {
+            "text": "Rufe Iyakokin Najeriya Ya Sa Farashin Kayan Masarufi Tsada A Nijar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "140": {
+        "data": {
+            "text": "An Harbe Wata Matashiya Data Ziyarci Ma’aikatar Ministan Kudi A Nijar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "141": {
+        "data": {
+            "text": "Masar: Shugaba Al-Sisi Yayi Nasara A Zaben Raba Gardama"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "142": {
+        "data": {
+            "text": "Shugaban Ghana Ya Yi Iftar (bude baki) da Al’ummar Musulmi"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "143": {
+        "data": {
+            "text": "Yan Afirka Ta Kudu Na Dada Tsanar Baki"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "144": {
+        "data": {
+            "text": "Yan Yankin Dake Magana Da Harshen Ingilishi A Kamaru Na Fatan Komawa Gidanjensu"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "145": {
+        "data": {
+            "text": "An Fara Kada Kuri'a Kan Batun Karin Wa'adin Mulkin Shugaban Masar"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "146": {
+        "data": {
+            "text": "Adadin Wadanda Suka Mutu a Harin Somalia Ya Karu"
+        },
+        "label": 0,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "147": {
+        "data": {
+            "text": "Accra Na Cigaba Da Gangamin Yaki Da Cutar Maleriya"
+        },
+        "label": 0,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "148": {
+        "data": {
+            "text": "Yana Yiwuwa a Sami Maganin Rage Kiba"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "149": {
+        "data": {
+            "text": "Najeriya ta kaddamar shirin tara binciken kwakwa kan cutar HIV"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "150": {
+        "data": {
+            "text": "Amurka ta maida hankali kan Matasa a wani binciken cutar HIV"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "151": {
+        "data": {
+            "text": "Hanyoyin Taimakon Rage Kitse Na Jiki"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "152": {
+        "data": {
+            "text": "Na'urar True Spec Na Gane Jabun Magani Da Mai Kyau"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "153": {
+        "data": {
+            "text": "JUMMAI ALI: Health Magazine, Janairu 02, 2015"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            3,
+            -1
+        ]
+    },
+    "154": {
+        "data": {
+            "text": "Kimanin kananan yara 143 ne daga cikin dubu daya suke mutuwa kafin su cika shekaru 5 a Najeriya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "155": {
+        "data": {
+            "text": "Cutar Ebola Ta Halaka Wani Karamin Yaro a Uganda"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "156": {
+        "data": {
+            "text": "Kwararru sun gano cewa yiwa mutane da dama rigakafi yana iya kare wadanda basu samu rigakafi ba"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "157": {
+        "data": {
+            "text": "Cutar Ebola Ta Fara Sake Zama Bala'i a Kasar Kongo"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "158": {
+        "data": {
+            "text": "Kimanin Kashi 90% Na ‘Yan Najeriya Na Fuskantar Barazanar Kamuwa da Malaria"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "159": {
+        "data": {
+            "text": "Taraba: Majinyata Sun Fara Kokawa Game Da Yajin Aikin Likitoci"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "160": {
+        "data": {
+            "text": "Majalisar Dokokin Tarayyar Najeriya Ta Bukaci A Shawo Kan Cutar Polio"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "161": {
+        "data": {
+            "text": "Har yanzu Da Sauran Aiki Kan Yaki Da Polio - Dr. Hajo Sani"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "162": {
+        "data": {
+            "text": "Zazzabin cizon sauro na kisa fiye da yadda masana suka zata"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "163": {
+        "data": {
+            "text": "Cututukan Da Ake Bukatar Yiwa Yara Rigakafi A Shekaru Biyar Na Farko-Kashi Na Daya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "164": {
+        "data": {
+            "text": "Asibitin Gwamnatin Tarayya Ya Bada Maganin Ciwon Ido Kyauta"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "165": {
+        "data": {
+            "text": "Kananan hukumomi 200 suna fuskantar barazanar yaduwar cutar polio,"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "166": {
+        "data": {
+            "text": "Kamfanin Philips ya dukufa wajen kula da lafiyar mata da kananan yara"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "167": {
+        "data": {
+            "text": "Jihar Jigawa Ta Soma Yaki Kan Cutar Tarin Fuka da Kuturta"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "168": {
+        "data": {
+            "text": "Kimanin Kananan Yara Miliyan Biyu Suka Zama Marayu Ta Dalilin Cutar Kanjamau"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "169": {
+        "data": {
+            "text": "Muhimmancin Alluran Rigakafi ga yara yan kasa da Shekara Biyar."
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "170": {
+        "data": {
+            "text": "Abinda Yake Hana Mata Ruwan Nono Bayan Haihuwa"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "171": {
+        "data": {
+            "text": "Yaki Da Cutar Ebola: Har Yanzu Akwai Sauran Aiki - WHO"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "172": {
+        "data": {
+            "text": "Kin Yiwa Yara Rigakafi Ke Haddasa Barkewar Kyanda"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "173": {
+        "data": {
+            "text": "Makon Shayar Da Jarirai Da Nonon Uwa A Kano"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            2,
+            -1,
+            -1
+        ]
+    },
+    "174": {
+        "data": {
+            "text": "Najeriya zata shawo kan yaduwar cutar Polio kafin karshen shekara mai zuwa"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "175": {
+        "data": {
+            "text": "Cututukan Da Gurbacewar Muhalli Ke Haifarwa"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "176": {
+        "data": {
+            "text": "Gwajin Gama Gari Ya Nuna Raguwar Yaduwar Cutar Kanjamau a Abuja"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "177": {
+        "data": {
+            "text": "Hukumar Lafiya ta duniya ta dorowa Najeriya da Pakistan alhakin ci gaba da yaduwar Polio"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "178": {
+        "data": {
+            "text": "Najeriya Na Bukatar Dala Miliyan 250 Don Yakar Polio"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            1,
+            -1,
+            3,
+            4
+        ]
+    },
+    "179": {
+        "data": {
+            "text": "Abin Da ‘Yan Najeriya Ke Cewa Kan “Tsarin Iyali”"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "180": {
+        "data": {
+            "text": "An Yiwa Sama Da Mutane Miliyan 3 Rigakafin Cutar Sankarau a Jihar Naija"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "181": {
+        "data": {
+            "text": "Annobar Cutar Kwalara Tana Barazana Ga Dukkan Najeriya Yanzu"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "182": {
+        "data": {
+            "text": "An Kusa Samun Maganin Zazzabin Cizon Sauro Mai Karfi"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "183": {
+        "data": {
+            "text": "Kimanin Kananan Yara 194,000 Suke Mutuwa ta Dalilin Cutar Gudawa a Najeriya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "184": {
+        "data": {
+            "text": "Gwamnatin Najeriya Zata Rika Kashe Naira Miliyan 100 kan Yaki Da HIV Kowacce Shekara"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "185": {
+        "data": {
+            "text": "Ma'aikatan Kiwon Lafiya Sun Gudanar Da Kyamfe Na Yaki Da Polio A Darazo, Jihar Bauchi"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "186": {
+        "data": {
+            "text": "Kotun kolin Astralia ta amince da hana talla kan kwalin taba sigari"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "187": {
+        "data": {
+            "text": "Jakadan Najeriya a Guinea Yayi Magana Akan Wanzuwar Ebola"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "188": {
+        "data": {
+            "text": "An Dakatar Da Babban Sakataren Hukumar Lafiya Ta Najeriya"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "189": {
+        "data": {
+            "text": "Gwamnatin Tarayya Zata Biya Mata Masu Ciki Suje Awo"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "190": {
+        "data": {
+            "text": "An sami kananan yara 72 da kwayar cutar Polio bana a Najeriya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "191": {
+        "data": {
+            "text": "An Fara Yaki Da Cutar Sankaron Mama a Jihar Neja"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "192": {
+        "data": {
+            "text": "An Danganta Tsawon Lokacin Da Uwa Tayi Tana Ba Jaririnta Nono Da Girma Nagarin Yara"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "193": {
+        "data": {
+            "text": "Rigakafin Kare Kanjamau Shi Ne Hanyar Kauda Cutar"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "194": {
+        "data": {
+            "text": "Kungiyoyi Masu Zaman Kansu Sun Shiga Yaki Da Zazzabin Cizon Sauro"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "195": {
+        "data": {
+            "text": "Uwargidan Gwamnan Borno ta Shirya Taron Fadakarwa Akan Cutar Ebola"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "196": {
+        "data": {
+            "text": "Amurka Da Birtaniya Zasu Tanada Gidan Sauro Miliyan 200 Don Yaki Da Zazzabin Cizon Sauro"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "197": {
+        "data": {
+            "text": "Cikakken Bayanin Cutar Maleriya Kashin Farko - Shin Ko Ka Kasan?"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "198": {
+        "data": {
+            "text": "Farashin Jarin Kamfanin IntelliPharmaceutics Yayi Sama Bayan Da Dr. Isa Odidi Ya Bude Kasuwar NASDAQ"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "199": {
+        "data": {
+            "text": "Hukumar Lafiya Ta Duniya Ta Ce An Samu Saukin Mace-Macen Zazzabin Cizon Sauro"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "200": {
+        "data": {
+            "text": "Akwai sauran aiki a yunkurin shawo kan cutar polio a Najeriya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "201": {
+        "data": {
+            "text": "PSN sun bada bayani kan kanfanin magunguna na Jebu"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "202": {
+        "data": {
+            "text": "Jihar Plato Zata Samar da Doka Kan Kawar da Kiyayya"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "203": {
+        "data": {
+            "text": "Ana Kokarin Rage Tsadar Maganin Sankaran Mara"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "204": {
+        "data": {
+            "text": "Cutar Zazzabin Cizon Sauro na Cigaba da Addabar Al’umma a Jamhuriyar Nijar"
+        },
+        "label": 1,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "205": {
+        "data": {
+            "text": "Cutar Ebola Ta Kashe Mutane 43 A Congo"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "206": {
+        "data": {
+            "text": "Mutane Sun Rage Mutuwa Ta Dalilin Zazzabin Cizon Sauro"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "207": {
+        "data": {
+            "text": "Matakai Shida na Rage Hadarin Kamuwa da Cutar Kansa"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "208": {
+        "data": {
+            "text": "Kwararru a Jamhuriyar Niger sun dauki matakin yaki da cutar shan Inna"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "209": {
+        "data": {
+            "text": "Gwamnatin tarayyar Najeriya ta kara yawan kason kudin yaki da cutar Polio"
+        },
+        "label": 1,
+        "weak_labels": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "210": {
+        "data": {
+            "text": "Koriya Ta Arewa Za Ta Hana Amurka Shiga Batun Nukiliyar Kasarta"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "211": {
+        "data": {
+            "text": "Janye Tallafin Soji: Saudiyya Ta Maida Martani Ma Amurka"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "212": {
+        "data": {
+            "text": "Canada Na Shirin Baiwa Meng Beli"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "213": {
+        "data": {
+            "text": "ISIS Ta Dauki Alhakin Harin Da Aka Kai Kan Wani Taron Biki A Aghanistan"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "214": {
+        "data": {
+            "text": "Pakistan Na Bikin Samun 'Yan Cin Kai Duk Da Rashin Jituwarta Da India"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "215": {
+        "data": {
+            "text": "An Zargi Johnson Da Yin Shigen \"Juyin Mulki\" Ga Majalisar Dokokin Burtaniya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "216": {
+        "data": {
+            "text": "Rasha Na Neman Bijirewa Iran, Bayan Takunkumin Amurka"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "217": {
+        "data": {
+            "text": "Kotun Koli Ta Wanke Wata Mata Daga Hukuncin Kisa"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            2,
+            3,
+            4
+        ]
+    },
+    "218": {
+        "data": {
+            "text": "Iran Ta Shaida Cewar Bata Neman Taimakon Wata Kasa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "219": {
+        "data": {
+            "text": "Gobarar Notre Dame: UNESCO Ta Kai Ziyara Faransa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "220": {
+        "data": {
+            "text": "LIBYA: Sojojin Amurka Sun Cafke Wanda Yake da Hannu a Kisan Jakadan Kasar a Benghazi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "221": {
+        "data": {
+            "text": "Shugaban Amurka Donald Trump Ya Janye Tabbaci Kan Yarjajjeniyar Nukiliyar Iran"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "222": {
+        "data": {
+            "text": "Amurka Ta Tallafawa Rundunar \"G5 Sahel\" A Nijar Da Kayan Aiki"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "223": {
+        "data": {
+            "text": "Majalisar Dinkin Duniya Tana Jimamin Mutuwar Kofi Annan"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "224": {
+        "data": {
+            "text": "An Gudanar Da Zanga-Zanga A Birnin Manila Sakamakon Ziyarar Shugaba Trump"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "225": {
+        "data": {
+            "text": "Shugaba Donald Trump Ya Gana Da Henry Kissinger Akan Batun Koriya Ta Arewa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "226": {
+        "data": {
+            "text": "Neman Shiga Amurka Yasa Uba Da Diya Sun Mutu A Kogi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "227": {
+        "data": {
+            "text": "Shugaba Donald Trump Ya Canza Dalilin Da Ya Bayar Na Korar Michael Flynn"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "228": {
+        "data": {
+            "text": "Jagoran Zanga Zangar Hong Kong Zai Tsaya Takara"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "229": {
+        "data": {
+            "text": "Amurka Na Iya Cimma Matsaya Da China Nan Ba Da Jimawa Ba - Trump"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "230": {
+        "data": {
+            "text": "Amurka Ta Karyata Batun Kwace Birnin Manbij Da Syria Tace Ta Yi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "231": {
+        "data": {
+            "text": "Jami'in Gwamnatin Trump Ya Rasa Aikinsa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "232": {
+        "data": {
+            "text": "Birtaniya Za Ta Dauki Sojoji Daga Kasashen Da Ta Mulka"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "233": {
+        "data": {
+            "text": "Trump Ya Ja Kunnen Dakarun Venezuela, Ya Nemi Su Yi Watsi Da Maduro"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "234": {
+        "data": {
+            "text": "Shugaba Trump Yace Amurka Zata Iya Kaca-kaca da Korea Ta Arewa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "235": {
+        "data": {
+            "text": "Nigeriya Zata Sami Dala Biliyan Daya Daga Maganin Gargajiya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "236": {
+        "data": {
+            "text": "Mexico Na Shirin Tura Dakaru Zuwa Kan Iyakarta Da Guatemala"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "237": {
+        "data": {
+            "text": "Harin Wuka Ya Halaka Mutum Daya a Australia"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "238": {
+        "data": {
+            "text": "Babban Bankin Duniya Zai Ninka Taimakon Da Yake Baiwa Kasashe Masu Fama Da Talauci"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "239": {
+        "data": {
+            "text": "Majalisar Dokokin Kasar Isra'ila Ta Yanke Shawarar Kada Kuri’a"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "240": {
+        "data": {
+            "text": "An Dakatar Da Ayyukan UNICEF  a Arewa Maso Gabashin Najeriya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "241": {
+        "data": {
+            "text": "Amurka Zata Tura Dakarunta Kasar Saudiyya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "242": {
+        "data": {
+            "text": "An Kammala Atisayen Sojojin Ruwa Mafi Girma A Duniya."
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "243": {
+        "data": {
+            "text": "Turkiyya Ta Siya Makaman Kariya, Kirar S-400 Daga Rasha"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "244": {
+        "data": {
+            "text": "Yan Sanda Sun Tarwatsa Masu Zanga-zanga a Hong Kong"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "245": {
+        "data": {
+            "text": "Sama Da Mutum 700 Suka Mutu Sanadiyar Guguwar \"Idai\" - MDD"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "246": {
+        "data": {
+            "text": "Korea Ta Arewa: Amurka Za Ta Kai Bukatar Daukan Matakin Soji a Gaban MDD"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "247": {
+        "data": {
+            "text": "Za Mu Ci gaba Da Hulda Da Kamaru - Amurka"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "248": {
+        "data": {
+            "text": "Shugabannin Turai Sun Mayar Da Martani A Kan Kashe Kashoggi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "249": {
+        "data": {
+            "text": "Najeriya da Azerbaijan Sun Kulla Dangantakar Aikin Soja"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "250": {
+        "data": {
+            "text": "Shugabannin Kasashen Duniya Za Su Tattauna Akan Sauyin Yanayi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "251": {
+        "data": {
+            "text": "Burtaniya Ka Iya Jinkirta Ficewa Daga Tarayyar Turai"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "252": {
+        "data": {
+            "text": "Yadda Gobara Ta Yi Barna a Mujami'ar Notre Dame Mai Dadadden Tarihi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "253": {
+        "data": {
+            "text": "Wasu Hare Hare Sun Yi Sanadiyar Mutuwar Mutane Da Dama A Kabul"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "254": {
+        "data": {
+            "text": "Najeriya: ECOWAS, MDD, Sun Tunatar Kan Yarjejeniyar Zaman Lafiya Da Aka Kulla"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "255": {
+        "data": {
+            "text": "Wani Hari Ta Sama A Afghanistan Ya Hallaka Mutane Da Yawa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "256": {
+        "data": {
+            "text": "Bankin Duniya Ya Tallafawa Yankin Da Aka Yi Ambaliyar Ruwa A Naija"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "257": {
+        "data": {
+            "text": "Fadar White House Tayi Allah Wadai Da Matakin Da Wani Alkalin Amurka Ya Dauka"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "258": {
+        "data": {
+            "text": "Kasar Koriya ta Arewa Matsala Ce Dole Na Maganceta - Donald Trump"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "259": {
+        "data": {
+            "text": "An Yaba Da Aikin Tsage Gaskiya Komin Dacinta Na VOA Hausa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "260": {
+        "data": {
+            "text": "Yarjejeniyar Makaman Nukiliyar Iran Abin Kunya Ne Ga Amurka- Inji Trump"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "261": {
+        "data": {
+            "text": "Dalar Amurka Saba'in da Biyar Zai Iya Fitar Da Kauye Daya a Afrika Daga Talauci"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "262": {
+        "data": {
+            "text": "Amurka Ta Zargi China Da Yi Mata Zagon Kasa"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "263": {
+        "data": {
+            "text": "An Watsama Jama'a Barkonon Tsohuwa, Da Ruwan Zafi A Kan Titi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "264": {
+        "data": {
+            "text": "An Nada Abdel Abdul-Mahdi A Matsayin Sabon Firai Ministan Iraqi"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "265": {
+        "data": {
+            "text": "Muryar Amurka Ta Sallami Ma'aikatan Sashen Hausa Sha Biyar"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "266": {
+        "data": {
+            "text": "Juan Guaido, Na Kasar Venezuela Na Neman Goyon Bayan Kasahen Duniya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "267": {
+        "data": {
+            "text": "Pakistan Ta Harbo Jiragen Yakin Sama Na Indiya Guda Biyu"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "268": {
+        "data": {
+            "text": "Rigimar Shahararren Mai Sarrafa Fina-finai a Amurka Harvey Weinstein Bata Kare Ba"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "269": {
+        "data": {
+            "text": "Dan Wasan Barkwanci Ya Ci Zaben Shugaban Kasar Ukraine"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "270": {
+        "data": {
+            "text": "Ambaliyar Tsunami Ta Hallaka Mutane 222 a Indonesiya"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "271": {
+        "data": {
+            "text": "Watan Janairun Badi Za'a Kammala Binciken Kisan da Aka Yiwa Sojojin Amurka a Niger"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "272": {
+        "data": {
+            "text": "Iran Ta Gargadi Amurka"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "273": {
+        "data": {
+            "text": "Amurka Tana Zargin Sojojin Myanmar Da Kisan Kare Dangi Kan Musulmin Rohyingya."
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "274": {
+        "data": {
+            "text": "Birtaniya: Yau Theresa May Za Ta San Makomarta"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "275": {
+        "data": {
+            "text": "Kotun Rasha Ta Ki Bada Belin Paul Whelan"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "276": {
+        "data": {
+            "text": "Shugaban Amurka Trump Yace Kasarsa Ta Kasa Cimma Burinta kan Koriya ta Arewa"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "277": {
+        "data": {
+            "text": "Koriya Ta Arewa Ta Sake Gwada Muggan Makamai"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "278": {
+        "data": {
+            "text": "Amurka Ta Yi Allah Wadai da Kisan da Aka Yiwa Wata 'Yar Jarida a Kasar Malta"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "279": {
+        "data": {
+            "text": "An Kama Wani Jirgin Mai Na Kasar Iran a Turai"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "280": {
+        "data": {
+            "text": "Yan Majalisar Dattawan Amurka Sun Bukaci Shugaban Kasa Ya Fayyace Masu Matsayin Dakarunsu a Kasar Nijar"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "281": {
+        "data": {
+            "text": "Shugaba Trump Ya Sanya Sabbin Takunkumi Ga Kasar Iran"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "282": {
+        "data": {
+            "text": "Kungiyar Izala Ta Kawo Ziyara Kasar Amurka"
+        },
+        "label": 4,
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "283": {
+        "data": {
+            "text": "Pompeo Yace A Taimakawa Venezuela"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "284": {
+        "data": {
+            "text": "Takadama Tsakanin Amurka Da Turkiyya Kan Sayan Makaman Rasha"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "285": {
+        "data": {
+            "text": "Birtaniya Ta Nemi Jiragen Ruwanta Su Kaucewa Mashigin Hormuz"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "286": {
+        "data": {
+            "text": "Ambaliyar Ruwan Tsunami Ta yi Barna A Indonesia"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "287": {
+        "data": {
+            "text": "Hong Kong Ta Janye Kudirin Dokar Tura Masu Laifuka China"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "288": {
+        "data": {
+            "text": "Ana Ci gaba Da Binciki Inda Dan-Jarida Khashoggi Yake"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    "289": {
+        "data": {
+            "text": "Tsohon Mai Baiwa Trump Shawara Ya Amsa Laifin Yin Karya"
+        },
+        "label": 4,
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    }
+}
