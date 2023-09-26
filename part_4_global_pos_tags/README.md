@@ -34,7 +34,7 @@ For example, if you want to work with a German treebank, you need to first open 
 vars_ud_treebank="UD_German-GSD"
 ```
 
-Then, you need to run the following command:
+Further, activate your Python environment. Then, you need to run the following command:
 
 ```bash
 ./create_data.sh
@@ -55,5 +55,5 @@ Your solution should contain the following steps:
 5. Evaluate the model
 
 Ideas 4 having fun:
-- Could multiple languages be useful=
-- How to use Spacy's transformer models (with e.g. Google Colab)?
+- Could multiple languages be useful?
+- How to use Spacy's transformer models, if you have a GPU?

@@ -1,5 +1,10 @@
 import os
 
+from collections import Counter
+from nltk.corpus import stopwords
+
+import numpy as np
+
 import spacy
 from spacy.training import Corpus
 from spacy.tokens import Span
@@ -45,6 +50,7 @@ def tag_all(docs, lfs):
 
 NOUN, VERB, ADJ, ADV, PRON, DET, PREP, ADP, NUM, CONJ, INTJ, PRT, PUNC, X, PROPN = \
     "NOUN", "VERB", "ADJ", "ADV", "PRON", "DET", "PREP", "ADP", "NUM", "CONJ", "INTJ", "PART", "PUNCT", "X", "PROPN"
+
 
 # if nltk_pos == "DT":
 #     yield token.i, token.i+1, "DET"
@@ -92,3 +98,44 @@ def penntreebank2universal(tag):
     if tag in ("SYM", "LS", ".", "!", "?", ",", ":", "(", ")", "\"", "#", "$"):
         return PUNC
     return X
+
+
+def compute_recall_num_conflicts(docs):
+    recalls, num_conflicts = [], []
+
+    for doc in docs:
+
+        recalls, num_conflicts = [], []
+        doc_conflicts = {}
+        for name, val in doc.spans.items():
+            for v in val:
+                for i in range(v.start, v.end):
+                    if i in doc_conflicts:
+                        doc_conflicts[i].append(v.label)
+                    else:
+                        doc_conflicts[i] = [v.label]
+
+        doc_recall = len(doc_conflicts) / len(doc)
+        doc_num_conflicts = np.where([len(set(v)) > 1 for v in doc_conflicts.values()])[0]
+        doc_num_conflicts = len(doc_num_conflicts) / len(doc_conflicts) if len(doc_conflicts) > 0 else 0
+
+        recalls.append(doc_recall)
+        num_conflicts.append(doc_num_conflicts)
+
+    recall = np.mean(recalls)
+    num_conflicts = np.mean(num_conflicts)
+    return recall, num_conflicts
+
+
+def get_frequent_words(corpus, num_words):
+    # Get all the words in the corpus
+    words = [token.text.lower() for doc in corpus for token in doc if not token.is_punct]
+
+    # Remove stopwords
+    words = [w for w in words if w not in stopwords.words('english')]
+
+    # Find the most frequent words
+    word_freq = Counter(words)
+    common_words = [w[0] for w in word_freq.most_common(num_words)]
+
+    return common_words
