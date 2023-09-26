@@ -1,4 +1,4 @@
-# Weak Supervision workshop
+# Weak Supervision Workshop
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
@@ -8,14 +8,19 @@ This repo contains the material for the practical part of the one-day workshop o
 ## Content 
 
 In our workshop, we are going to go through 3 different tutorials: 
-1. `01_ws_baseics.ipynb` - we will train a spam detection classifier. 
-For that, we will first collect the training data, then annotate it in a weakly supervised fashion 
-(i.e., with help of labeling functions),
-aggregate the annotations into weak labels (with two different models),
-and train a simple MLP. 
-Additionally, we will train a more sophisticated end-to-end SepLL model. 
-2. 
-3.
+1. `part_2_spam_clf` - In this part, we will build a spam detection classifier using weakly supervised data. 
+We will work with a dataset of YouTube comments and use a weak supervision approach to annotate it. 
+In particular, we will create labeling functions, explore different label models (e.g., majority vote, FABLE), and train a basic classifier. 
+Finally, we will also run an end-to-end weakly supervised model SepLL. 
+All the experiments will be conducted using Wrench - one of the most popular and comprehensive frameworks for weak supervision.
+2. `part_3_eng_pos_tags`- In this part, we will experiment with weak supervision for part-of-speech (POS) tagging. 
+We will create labeling functions (LFs) based on syntactic and grammatical rules, in order to obtain weak labels. 
+Moreover we will add LFs that employ rule-based and pre-trained taggers. 
+Then, the results of the labeling functions and the models trained on the weak labels will be discussed and we will perform an analysis of their results in relation to different types of rules, different training sizes, etc.
+3. `part_4_global_pos_tags` - In this part, we will experiment with weak supervision for part-of-speech (POS) tagging. 
+We will create labeling functions (LFs) based on syntactic and grammatical rules, in order to obtain weak labels. 
+Moreover we will add LFs that employ rule-based and pre-trained taggers. 
+Then, the results of the labeling functions and the models trained on the weak labels will be discussed and we will perform an analysis of their results in relation to different types of rules, different training sizes, etc.
  
 ---
 ## Installation
