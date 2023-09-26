@@ -1,5 +1,7 @@
 # Weak Supervision workshop
 
+[![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 This repo contains the material for the practical part of the one-day workshop on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
 
 ---
@@ -20,6 +22,7 @@ Additionally, we will train a more sophisticated end-to-end SepLL model.
 
 In order to be able to work on the tutorials, you need to have all the necessary libraries installed. 
 For that, please do the following: 
+0. install python 3.8
 1. clone/download this GitHub repo
 2. create a virtual environment using the `requirements.txt` file:
 ```
