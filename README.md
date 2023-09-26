@@ -29,17 +29,29 @@ For that, please do the following:
 ```
 # go to the tutorials directory 
 cd WS_tutorial
+```
 
-# install the virtualenv library if you don't already have it
+Install the virtualenv library if you don't already have it:
+```
 pip3 install virtualenv       
+```
 
-# create a new virtual environment  
+Create a new virtual environment:  
+```
 virtualenv <the name of your environment>  
+```
 
-# enter the virtual environment         
+Enter the virtual environment:
+```
+# for MacOS/Linux:
 source <the name of your environment>/bin/activate
 
-# install the requirements in the current virtual environment 
+# for Windows:
+source <the name of your environment>\Scripts\activate
+```
+
+Install the requirements in the current virtual environment: 
+```
 pip3 install -r requirements.txt
 ```
 3. launch the jupyter notebook from the activated virtual environment
