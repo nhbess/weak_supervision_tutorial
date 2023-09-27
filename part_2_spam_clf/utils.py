@@ -1,11 +1,16 @@
-import glob
+import os
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
 def load_raw_spam_dataset(load_train_labels: bool = False, split_dev_valid: bool = True):
-    filenames = sorted(glob.glob("data/youtube/raw/Youtube*.csv"))
+    filenames = []
+    path_to_data = os.path.join("data", "youtube", "raw")
+    for name in os.listdir(path_to_data):
+        if name.startswith("Youtube") and name.endswith(".csv"):
+            filenames.append(os.path.join(path_to_data, name))
+    filenames = sorted(filenames)
 
     dfs = []
     for i, filename in enumerate(filenames, start=1):
