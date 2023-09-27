@@ -34,7 +34,7 @@ For that, please do the following:
 
 ```
 # go to the tutorials directory 
-cd WS_tutorial
+cd weak_supervision_workshop
 ```
 
 Install the Conda library:
