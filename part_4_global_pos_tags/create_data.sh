@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # specify the treebank
-vars_ud_treebank=UD_English-EWT
+vars_ud_treebank="UD_German-GSD"
 
 # train data
 python scripts/copy_files.py train conllu assets/ud-treebanks-v2.5/${vars_ud_treebank}/ corpus/${vars_ud_treebank}/train/
