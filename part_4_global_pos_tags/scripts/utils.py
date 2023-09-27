@@ -100,12 +100,10 @@ def penntreebank2universal(tag):
     return X
 
 
-def compute_recall_num_conflicts(docs):
-    recalls, num_conflicts = [], []
+def compute_num_conflicts(docs):
+    num_conflicts_token = []
 
     for doc in docs:
-
-        recalls, num_conflicts = [], []
         doc_conflicts = {}
         for name, val in doc.spans.items():
             for v in val:
@@ -114,17 +112,31 @@ def compute_recall_num_conflicts(docs):
                         doc_conflicts[i].append(v.label)
                     else:
                         doc_conflicts[i] = [v.label]
+        num_conflicts = [len(set(v)) > 1 for v in doc_conflicts.values()]
+        num_conflicts_token.extend(num_conflicts)
 
-        doc_recall = len(doc_conflicts) / len(doc)
-        doc_num_conflicts = np.where([len(set(v)) > 1 for v in doc_conflicts.values()])[0]
-        doc_num_conflicts = len(doc_num_conflicts) / len(doc_conflicts) if len(doc_conflicts) > 0 else 0
+    token_mean_num_conflicts = np.mean(num_conflicts_token)
 
-        recalls.append(doc_recall)
-        num_conflicts.append(doc_num_conflicts)
+    return round(token_mean_num_conflicts, 4)
 
-    recall = np.mean(recalls)
-    num_conflicts = np.mean(num_conflicts)
-    return recall, num_conflicts
+
+def compute_recall(docs):
+    recall_token = []
+
+    for doc in docs:
+        doc_conflicts = {}
+        for name, val in doc.spans.items():
+            for v in val:
+                for i in range(v.start, v.end):
+                    if i in doc_conflicts:
+                        doc_conflicts[i].append(v.label)
+                    else:
+                        doc_conflicts[i] = [v.label]
+        has_annotation = [len(set(v)) > 0 for v in doc_conflicts.values()]
+        recall_token.extend(has_annotation)
+
+    token_recall = np.mean(recall_token)
+    return round(token_recall, 4)
 
 
 def get_frequent_words(corpus, num_words):
