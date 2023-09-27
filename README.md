@@ -26,43 +26,53 @@ Then, the results of the labeling functions and the models trained on the weak l
 ## Installation
 
 In order to be able to work on the tutorials, you need to have all the necessary libraries installed. 
+We recommend to use Conda environment. 
 For that, please do the following: 
 
-0. install python 3.8
 1. clone/download this GitHub repo
-2. create a virtual environment using the `requirements.txt` file:
+2. create a new Conda environment:
+
 ```
 # go to the tutorials directory 
 cd WS_tutorial
 ```
 
-Install the virtualenv library if you don't already have it:
+Install the Conda library:
 ```
-pip3 install virtualenv       
+pip3 install conda       
 ```
 
-Create a new virtual environment:  
+Create a new Conda environment and **specify the Python version (3.8)**:  
 ```
-virtualenv <the name of your environment>  
+conda create --name <the name of your environment> python=3.8
 ```
+
+4. Install the required libraries using the `requirements.txt` file:
 
 Enter the virtual environment:
 ```
-# for MacOS/Linux:
-source <the name of your environment>/bin/activate
+conda activate <the name of your environment>
+```
 
-# for Windows:
-source <the name of your environment>\Scripts\activate
+Install `pip` package (if it is not installed on a user level):
+```
+conda install pip
 ```
 
 Install the requirements in the current virtual environment: 
 ```
 pip3 install -r requirements.txt
 ```
-3. launch the jupyter notebook from the activated virtual environment
+5. launch the jupyter notebook from the activated virtual environment
 ```
 jupyter notebook 
 ```
+
+
+
+
+
+
 
 Now you can access all jupyter notebooks that we are going to use today. Have fun!
 
