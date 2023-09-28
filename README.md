@@ -27,18 +27,19 @@ In order to be able to work on the tutorials, you need to have all the necessary
 We recommend to use Conda environment. 
 For that, please do the following: 
 
-1. clone/download this GitHub repo
-2. create a new Conda environment:
+1. Clone/download this GitHub repo
+2. Create a new Conda environment:
 
 ```
 # go to the tutorials directory 
 cd weak_supervision_workshop
 ```
 
-Install the Conda library:
+Install the Conda library with pip:
 ```
 pip3 install conda       
 ```
+or download it online: https://www.anaconda.com/download
 
 Create a new Conda environment and **specify the Python version (3.8)**:  
 ```
