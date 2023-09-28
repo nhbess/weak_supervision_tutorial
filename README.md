@@ -17,11 +17,9 @@ All the experiments will be conducted using Wrench - one of the most popular and
 We will create labeling functions (LFs) based on syntactic and grammatical rules, in order to obtain weak labels. 
 Moreover we will add LFs that employ rule-based and pre-trained taggers. 
 Then, the results of the labeling functions and the models trained on the weak labels will be discussed and we will perform an analysis of their results in relation to different types of rules, different training sizes, etc.
-3. `part_4_global_pos_tags` - In this part, we will experiment with weak supervision for part-of-speech (POS) tagging. 
-We will create labeling functions (LFs) based on syntactic and grammatical rules, in order to obtain weak labels. 
-Moreover we will add LFs that employ rule-based and pre-trained taggers. 
-Then, the results of the labeling functions and the models trained on the weak labels will be discussed and we will perform an analysis of their results in relation to different types of rules, different training sizes, etc.
- 
+3. `part_4_global_pos_tags` - This part, again, involves POS tagging. However, a language of your choice is selected from the Universal Dependencies (https://universaldependencies.org/ )
+The key objective of this part is to apply the knowledge you've acquired so far in a completely new and unfamiliar setting.
+
 ---
 ## Installation
 
