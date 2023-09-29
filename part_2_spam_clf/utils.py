@@ -1,4 +1,5 @@
 import os
+import random
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -43,6 +44,31 @@ def load_raw_spam_dataset(load_train_labels: bool = False, split_dev_valid: bool
         return df_train, df_dev, df_test
     else:
         return df_train, df_test
+
+
+from collections import Counter
+def majority_vote(weak_annotations, num_classes=2, negative_class=0, default_class=1):
+    labels = []
+    for sample_annotation in weak_annotations:
+        votes = Counter(sample_annotation)
+        del votes[-1]
+        winning_classes_votes = votes.most_common(num_classes)
+
+        if len(winning_classes_votes) == 0:
+            # if no LF matched
+            winner_class = negative_class
+
+        elif len(winning_classes_votes) > 1 and winning_classes_votes[0][1] == winning_classes_votes[1][1]:
+            # a tie
+            winner_class = default_class  # assign to default class
+            winner_class = random.choice([winning_classes_votes[0][0], winning_classes_votes[1][0]]) # assign to random class
+
+        else:
+            # the simples case
+            winner_class = winning_classes_votes[0][0]
+
+        labels.append(winner_class)
+    return np.array(labels)
 
 
 if __name__ == '__main__':
