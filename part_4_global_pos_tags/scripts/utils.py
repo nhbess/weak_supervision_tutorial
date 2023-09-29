@@ -14,7 +14,7 @@ def load_data_split(split="train", all_labels=["DET"], subset=None):
     part3_path = ""
 
     # Path to the dataset file
-    data_path = os.path.join("corpus", "UD_English-EWT")
+    data_path = os.path.join("corpus", "UD_Spanish-GSD")
 
     # Create a blank spacy pipeline
     nlp = spacy.blank("xx")
