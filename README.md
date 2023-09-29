@@ -1,13 +1,13 @@
-# Weak Supervision Workshop
+# Weak Supervision Tutorial
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-This repo contains the material for the practical part of the one-day workshop on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
+This repo contains the material for the practical part of the one-day tutorial on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
 
 ---
 ## Content 
 
-In our workshop, we are going to go through 3 different tutorials: 
+After part 1, which is a lecture given by Prof. Benjamin Roth, we are going to go through 3 different tutorials: 
 1. `part_2_spam_clf` - In this part, we will build a spam detection classifier using weakly supervised data. 
 We will work with a dataset of YouTube comments and use a weak supervision approach to annotate it. 
 In particular, we will create labeling functions, explore different label models (e.g., majority vote, FABLE), and train a basic classifier. 
@@ -66,12 +66,6 @@ pip3 install -r requirements.txt
 ```
 jupyter notebook 
 ```
-
-
-
-
-
-
 
 Now you can access all jupyter notebooks that we are going to use today. Have fun!
 
