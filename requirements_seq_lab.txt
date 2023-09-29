@@ -1,6 +1,6 @@
 # These should be fixed to this version:
 skweak==0.2.13
-hmmlearn==0.2.6
+#hmmlearn==0.2.6
 textblob==0.17.1
 
 # The rest of the requirements (we think) don't need a fixed version. It's added because it worked for us.
