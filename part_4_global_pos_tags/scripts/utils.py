@@ -43,7 +43,9 @@ def load_data_split(split="train", all_labels=["DET"], subset=None):
 
 def tag_all(docs, lfs):
     for doc in docs:
+        print(doc)
         for lf in lfs:
+            print(lf)
             doc = lf(doc)
     return docs
 
